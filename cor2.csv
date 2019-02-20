@@ -1,0 +1,71 @@
+Library,Stage,Value
+Weka,Non ML,0.15
+Weka,Data preparation,0.31
+Weka,Choice of model,0.21
+Weka,Training,0.11
+Weka,Evaluation,0.10
+Weka,Hyperparameter tuning,0.00
+Weka,Prediction,0.11
+Torch,Non ML,0.30
+Torch,Data preparation,0.21
+Torch,Choice of model,0.23
+Torch,Training,0.21
+Torch,Evaluation,0.03
+Torch,Hyperparameter tuning,0.00
+Torch,Prediction,0.02
+Theano,Non ML,0.38
+Theano,Data preparation,0.17
+Theano,Choice of model,0.23
+Theano,Training,0.16
+Theano,Evaluation,0.00
+Theano,Hyperparameter tuning,0.01
+Theano,Prediction,0.05
+Tensorflow,Non ML,0.26
+Tensorflow,Data preparation,0.17
+Tensorflow,Choice of model,0.2
+Tensorflow,Training,0.22
+Tensorflow,Evaluation,0.09
+Tensorflow,Hyperparameter tuning,0.01
+Tensorflow,Prediction,0.04
+Mllib,Non ML,0.15
+Mllib,Data preparation,0.33
+Mllib,Choice of model,0.24
+Mllib,Training,0.15
+Mllib,Evaluation,0.05
+Mllib,Hyperparameter tuning,0.02
+Mllib,Prediction,0.07
+scikit-learn,Non ML,0.12
+scikit-learn,Data preparation,0.27
+scikit-learn,Choice of model,0.23
+scikit-learn,Training,0.18
+scikit-learn,Evaluation,0.09
+scikit-learn,Hyperparameter tuning,0.04
+scikit-learn,Prediction,0.07
+Mahout,Non ML,0.23
+Mahout,Data preparation,0.17
+Mahout,Choice of model,0.44
+Mahout,Training,0.1
+Mahout,Evaluation,0.02
+Mahout,Hyperparameter tuning,0
+Mahout,Prediction,0.04
+Keras,Non ML,0.19
+Keras,Data preparation,0.15
+Keras,Choice of model,0.25
+Keras,Training,0.24
+Keras,Evaluation,0.08
+Keras,Hyperparameter tuning,0
+Keras,Prediction,0.09
+h2o,Non ML,0.12
+h2o,Data preparation,0.41
+h2o,Choice of model,0.18
+h2o,Training,0.18
+h2o,Evaluation,0.06
+h2o,Hyperparameter tuning,0.06
+h2o,Prediction,0
+Caffe,Non ML,0.23
+Caffe,Data preparation,0.15
+Caffe,Choice of model,0.27
+Caffe,Training,0.27
+Caffe,Evaluation,0.01
+Caffe,Hyperparameter tuning,0.02
+Caffe,Prediction,0.05
