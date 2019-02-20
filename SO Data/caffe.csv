@@ -1,0 +1,133 @@
+Title,,
+Caffe: how to get the phase of a Python layer?,Model Creation,Choice of Model
+What does global pooling do?,Model Creation,Choice of Model
+Caffe didn't see hdf5.h when compiling,Dependency,Library
+what does C-contiguous fashion mean in caffe blob storage?,Model Creation,Choice of Model
+Caffe layer creation failure,Model Creation error,Choice of Model
+"Importing caffe results in ImportError: ""No module named google.protobuf.internal"" (import enum_type_wrapper)",Dependency,Library
+Caffe Iteration loss versus Train Net loss,Accuracy,Training
+Compiling Caffe C++ Classification Example,Dependency,Library
+Python real time image classification problems with Neural Networks,Model Creation,Choice of Model
+"error: function ""atomicAdd(double *, double)"" has already been defined",Bug,Library
+caffe data layer example step by step,Model Creation,Choice of Model
+Caffe: What can I do if only a small batch fits into memory?,Convergence,Training
+The speed between ImageDataLayer and LMDB data layer,Model Creation,Choice of Model
+Caffe+Opencv without lmdb,Model Creation,Choice of Model
+How are multiple gpus utilized in Caffe?,Platform,Library
+Ways to implement multi-GPU BN layers with synchronizing means and vars,Model Creation,Choice of Model
+Convert data to leveldb for caffe,Adapting Data,Data Preparation
+Undefined symbols for architecture x86_64: for caffe build,Dependency,Library
+make pycaffe fatal error: 'Python.h' file not found,Dependency,Library
+How to train a caffe model?,Model Creation,Choice of Model
+Google Deep Dream art: how to pick a layer in a neural network and enhance it,Model Creation,Choice of Model
+Caffe: Drawing CNN Net,Model Creation error,Choice of Model
+Siamese network output,Model Creation,Choice of Model
+Generating LMDB for Caffe,Adapting Data,Data Preparation
+What is batch size in Caffe or convnets,Choice of Parameters,Training
+Is it possible to switch between BLAS libraries without recompiling program?,Platform,Library
+Caffe: Reading LMDB from Python,Adapting Data,Data Preparation
+Modifying the Caffe C++ prediction code for multiple inputs,Prediction,Prediction
+"RMSprop, Adam, AdaDelta test accuracy does not improve using Caffe",Choice of Optimizer,Training
+"How to build Caffe framework XCode 6.2, iOS 8.3 environment",Installation,Library
+Can Caffe classify pixels of an image directly?,Model Creation,Choice of Model
+"Test labels for regression caffe, float not allowed?",Type mismatch,Data Preparation
+LSTM module for Caffe,Model Creation,Choice of Model
+When to use in-place layers in Caffe?,Model Creation,Choice of Model
+L2 normalization in Caffe using already existing layers,Choice of Normalization,Training
+"scale the loss value according to ""badness"" in caffe",Choice of loss function,Training
+Is it good learning rate for Adam method?,Choice of Parameters,Training
+How to create caffe.deploy from train.prototxt,Model Creation,Choice of Model
+Terminal output redirection not working for Caffe,Prediction,Prediction
+How to reshape a blob in Caffe?,Adapting Data,Data Preparation
+Caffe snapshots: .solverstate vs .caffemodel,Choice of Parameters,Training
+Euclidean Loss Layer in Caffe,Choice of Loss function,Training
+How to convolve two blobs in caffe,Performance,Training
+NameError: name 'get_ipython' is not defined,Dependency,Library
+How to increase validation accuracy with deep neural net?,Accuracy,Training
+What does 'Attempting to upgrade input file specified using deprecated transformation parameters' mean?,Choice of Parameters,Training
+Does Caffe need data to be shuffled?,Adapting Data,Data Preparation
+Writing data to LMDB with Python very slow,Adapting Data,Data Preparation
+Leaky_Relu in Caffe,Model Creation,Choice of Model
+What does *Restarting data prefetching from start* mean in caffe,Library message,Training
+deep learning - a number of naive questions about caffe,Library proeprties,Library
+VGG Face Descriptor in python with caffe,Type mismatch,Data Preparation
+Caffe Multiple Input Images,Adapting Data,Data Preparation
+"What is a `""Python""` layer in caffe?",Model Creation,Choice of Model
+"How should ""BatchNorm"" layer be used in caffe?",Model Creation,Choice of Model
+Multi label regression in Caffe,Convergence,Training
+"Caffe error Cannot copy param 0 weights from layer, shape mismatch",Shape mismatch,Data Preparation
+Scale layer in Caffe,Model Creation,Choice of Model
+Finding gradient of a Caffe conv-filter with regards to input,Performance,Training
+A guide to convert_imageset.cpp,Adapting Data,Data Preparation
+Caffe training without testing,Overriding,Library
+How to change CUDA version,Platform,Library
+"How to reduce a fully-connected (`""InnerProduct""`) layer using truncated SVD",Model Creation,Choice of Model
+Google Inceptionism: obtain images by class,Prediction,Prediction
+Convert Tensorflow model to Caffe model,Converting model,Library
+Min-Max normalization Layer in Caffe,Normalization,Training
+ImportError cannot import name BytesIO when import caffe on ubuntu,Dependency,Library
+Issues with compiling Caffe with cuDNN,Installation,Library
+Custom padding for convolutions in TensorFlow,Adapting Data,Data Preparation
+Fine Tuning of GoogLeNet Model,Hyper parameter tuning,Hyper parameter tuning
+What is `weight_decay` meta parameter in Caffe?,Choice of Parameters,Training
+Caffe output layer number accuracy,Accuracy,Training
+What is the proper way to weight decay for Adam Optimizer,Choice of Parameters,Training
+"Install Caffe on Mac error: ""fatal error: 'cblas.h' file not found""",Installation,Library
+Accuracy issue in caffe,Accuracy,Training
+Caffe sigmoid cross entropy loss,Choice of loss function,Training
+how to append data to existing LMDB?,Adapting Data,Data Preparation
+caffe: What does the **group** param mean?,Choice of Parameters,Training
+Building custom Caffe layer in python,Model Creation,Choice of Model
+Caffe | solver.prototxt values setting strategy,Choice of Parameters,Training
+compiling caffe on Yosemite,Installation,Library
+What is `lr_policy` in Caffe?,Choice of Parameters,Training
+How to write comments in prototxt files?,Model Creation,Choice of Model
+Tackling Class Imbalance: scaling contribution to loss and sgd,Choice of loss function,Training
+What is the simplest way to make object detector on C++ with Fast/Faster-RCNN?,Model Creation,Choice of Model
+How to verify CuDNN installation?,Installation,Library
+caffe cmake error by ccache,Installation,Library
+Could not insert 'nvidia_352': No such device,Dependency,Library
+Multiple category classification in Caffe,Model Creation,Choice of Model
+Fusing different input channels in caffe?,Model Creation,Choice of Model
+ImportError: dynamic module does not define module export function (PyInit__caffe),Dependency,Library
+Trying to train the ImageNet model with Region CNN (R-CNN),Model Creation,Choice of Model
+Setting GLOG_minloglevel=1 to prevent output in shell from Caffe,Choice of Parameters,Training
+Prediction in Caffe - Exception: Input blob arguments do not match net inputs,Prediction,Prediction
+Changing the solver parameters in Caffe through pycaffe,Hyper parameter tuning,Hyper parameter tuning
+Construct caffe.Net object using NetParameter,Choice of Parameters,Training
+"Using GPU despite setting CPU_Only, yielding unexpected keyword argument",Platform,Library
+When does Caffe make copies of the data?,Adapting Data,Data Preparation
+Common causes of nans during training,Data cleaning,Data Preparation
+Adverserial images in TensorFlow,Data cleaning,Data Preparation
+Import caffe error,Dependency,Library
+Multiple accuracy layers in Caffe,Accuracy,Training
+How can I speed up deep learning on a non-NVIDIA setup?,Installation,Library
+Convert nngraph model to nn model,Converting model,Library
+Multi-label classification with Caffe,Model Creation,Choice of Model
+How to design deep convolutional neural networks?,Model Creation,Choice of Model
+Error when using classify in caffe,Error/Exception,Training
+Caffe net.predict() outputs random results (GoogleNet),Prediction,Prediction
+How to enable multithreading with Caffe?,Overriding,Library
+Sharing contiguous numpy arrays between processes in python,Model Creation,Choice of Model
+How to convert caffe prototxt to pytorch model?,Converting model,Library
+Caffe SigmoidCrossEntropyLoss Layer Loss Function,Choice of loss function,Training
+How to interpret caffe log with debug_info?,Library message,Training
+How to feed caffe multi label data in HDF5 format?,Adapting Data,Data Preparation
+number of parameters in Caffe LENET or Imagenet models,Choice of Parameters,Training
+Monitor training/validation process in Caffe,Evaluation Strategy,Evaluation
+Auto-encoders with tied weights in Caffe,Model Creation,Choice of Model
+How can I implement a weighted cross entropy loss in tensorflow using sparse_softmax_cross_entropy_with_logits,Choice of Loss function,Training
+How to Create CaffeDB training data for siamese networks out of image directory,Adapting Data,Data Preparation
+Is there a common format for neural networks,Model Creation,Choice of Model
+Multiple pretrained networks in Caffe,Loading model,Library
+caffe with multi-label images,Model Creation,Choice of Model
+What's the triplet loss back propagation gradient formula?,Choice of loss function,Training
+InfogainLoss layer,Choice of loss function,Training
+What is the output of fully connected layer in CNN?,Prediction,Prediction
+Caffe HDF5 pixel-wise classification,Shape mismatch,Data Preparation
+Caffe | Check failed: error == cudaSuccess (2 vs. 0) out of memory,Bug,Library
+"caffe2 Tensor<CUDAContext> assignment, construction or copy",Model Creation,Choice of Model
+Caffe: Understanding expected lmdb datastructure for blobs,Adapting Data,Data Preparation
+Image classification in Caffe always returns same class,Prediction,Prediction
+Faster RCNN for TensorFlow,Model Creation,Choice of Model
+Spark problems with imports in Python,Dependency,Library

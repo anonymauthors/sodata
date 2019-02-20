@@ -1,0 +1,124 @@
+Title,,
+Create labeledPoints from Spark DataFrame in Python,Adapting Data,Data Preparation
+How to convert RDD of dense vector into DataFrame in pyspark?,Adapting Data,Data Preparation
+Addition of two RDD[mllib.linalg.Vector]'s,Adapting Data,Data Preparation
+Spark ML - Save OneVsRestModel,Storing Model,Library
+Difference between org.apache.spark.ml.classification and org.apache.spark.mllib.classification,Model Creation,Choice of Model
+How to save models from ML Pipeline to S3 or HDFS?,Storing Model,Library
+How to vectorize DataFrame columns for ML algorithms?,Adapting Data,Data Preparation
+How to convert ArrayType to DenseVector in PySpark DataFrame?,Adapting Data,Data Preparation
+Spark DataFrames when udf functions do not accept large enough input variables,Adapting Data,Data Preparation
+How to replace the DataField values with exact column names in Spark-MLlib PMML file?,Adapting Data,Data Preparation
+Cannot convert type <class 'pyspark.ml.linalg.SparseVector'> into Vector,Type mismatch,Data Preparation
+Apache Spark MLlib: How to import model from PMML,Loading model,Library
+How to convert spark DataFrame to RDD mllib LabeledPoints?,Adapting Data,Data Preparation
+"How to transform a categorical variable in Spark into a set of columns coded as {0,1}?",Adapting Data,Data Preparation
+From DataFrame to RDD[LabeledPoint],Adapting Data,Data Preparation
+Convert RDD of Vector in LabeledPoint using Scala - MLLib in Apache Spark,Adapting Data,Data Preparation
+Proper save/load of MatrixFactorizationModel,Storing Model,Library
+How to serve a Spark MLlib model?,Loading model,Library
+In Spark: MatrixFactorizationModel.scala â€œrecommendProductsForUsersâ€ù function takes very long time to complete,Performance,Training
+ERROR TaskSchedulerImpl: Exception in statusUpdate,Error/Exception,Training
+pyspark: org.apache.thrift.transport.TTransportException at ERROR,Error/Exception,Training
+Difference between Apache spark mllib.linalg vectors and spark.util vectors for machine learning,Adapting Data,Data Preparation
+How to score all user-product combinations in Spark MatrixFactorizationModel?,Model Creation,Choice of Model
+Apache Spark -- MlLib -- Collaborative filtering,Model Creation,Choice of Model
+Out-of-core processing of sparse CSR arrays,Model Creation,Choice of Model
+Apache Spark: How to create a matrix from a DataFrame?,Adapting Data,Data Preparation
+How to extract best parameters from a CrossValidatorModel,Feature Extraction,Data Preparation
+Spark train test split,Adapting Data,Data Preparation
+Is Spark's KMeans unable to handle bigdata?,Error/Exception,Training
+(Spark) object {name} is not a member of package org.apache.spark.ml,Dependency,Library
+Spark Jaccard similarity computation by min hashing slow compared to trivial approach,Model Creation,Choice of Model
+PySpark & MLLib: Random Forest Feature Importances,Feature Extraction,Data Preparation
+Creating an RDD to collect the results of an iterative calculation,Adapting Data,Data Preparation
+Save Apache Spark mllib model in python,Storing Model,Library
+What is the difference between HashingTF and CountVectorizer in Spark?,Model Creation,Choice of Model
+Spark DataFrame not respecting schema and considering everything as String,Type mismatch,Data Preparation
+apache spark MLLib: how to build labeled points for string features?,Adapting Data,Data Preparation
+How to assign unique contiguous numbers to elements in a Spark RDD,Adapting Data,Data Preparation
+Spark ML indexer cannot resolve DataFrame column name with dots?,Adapting Data,Data Preparation
+RandomForestClassifier was given input with invalid label column error in Apache Spark,Type mismatch,Data Preparation
+How do I run the Spark decision tree with a categorical feature set using Scala?,Model Creation,Choice of Model
+Optimal way to create a ml pipeline in Apache Spark for dataset with high number of columns,Performance,Training
+Spark MLlib - trainImplicit warning,Library message,Library
+Spark MLLib Collaborative Filtering with new user,Model Creation,Choice of Model
+Using DataFrame with MLlib,Adapting Data,Data Preparation
+Understanding Spark RandomForest featureImportances results,Feature Extraction,Data Preparation
+Apache Spark: StackOverflowError when trying to indexing string columns,Error/Exception,Training
+How to get word details from TF Vector RDD in Spark ML Lib?,Model Creation,Choice of Model
+Incremental training of ALS model,Accuracy,Training
+Matrix Math With Sparklyr,Model Creation,Choice of Model
+Predicting probabilities of classes in case of Gradient Boosting Trees in Spark using the tree output,Prediction,Prediction
+What is rank in ALS machine Learning Algorithm in Apache Spark Mllib,Choice of Parameter,Training
+How to integrate Apache Spark with Spring MVC web application for interactive user sessions,Platform,Library
+How to improve my recommendation result? I am using spark ALS implicit,Hyper parameter tuning,Hyper parameter tuning
+How to extract model hyper-parameters from spark.ml in PySpark?,Hyper parameter tuning,Hyper parameter tuning
+ALS model - predicted full_u * v^t * v ratings are very high,Prediction,Prediction
+Online learning of LDA model in Spark,Model Creation,Choice of Model
+"Spark MLlib LDA, how to infer the topics distribution of a new unseen document?",Prediction,Prediction
+Spark: Input a vector,Adapting Data,Data Preparation
+How are number of iterations and number of partitions releated in Apache spark Word2Vec?,Choice of Parameter,Training
+Apache Spark ALS recommendations approach,Model Creation,Choice of Model
+How to load a PMML model?,Loading model,Library
+RDD to LabeledPoint conversion,Adapting Data,Data Preparation
+Calling Java/Scala function from a task,Add Custom Code ,Library
+Apache Spark MLlib Model File Format,Storing Model,Library
+Spark MLlib - Training collaborative filtering with implicit feedback - strange warnings,Library message,Library
+Run a R Model using SparkR,Model Convertion,Library
+AttributeError: 'DataFrame' object has no attribute 'map',Type mismatch,Data Preparation
+PCA in Spark MLlib and Spark ML,Model Creation,Choice of Model
+Why is Spark Mllib KMeans algorithm extremely slow?,Performance,Training
+MLlib to Breeze vectors/matrices are private to org.apache.spark.mllib scope?,Library API,Library
+How to compute the mean with Apache spark?,Model Creation,Choice of Model
+Accessing Naive Baye's posterior probability in Spark's MLlib,Output Interpretation,Prediction
+How to prepare data into a LibSVM format from DataFrame?,Adapting Data,Data Preparation
+Apache Spark ALS Recommendation,Model Creation,Choice of Model
+How to update Spark MatrixFactorizationModel for ALS,Model Creation,Choice of Model
+How to create correct data frame for classification in Spark ML,Adapting Data,Data Preparation
+Create Custom Cross Validation in Spark ML,Evaluation Strategy,Evaluation
+How can I create a TF-IDF for Text Classification using Spark?,Model Creation,Choice of Model
+How to cross validate RandomForest model?,Evaluation Strategy,Evaluation
+"In machine learning which algorithm should I use to recommend, based on different features like rating,type,gender etc",Model Preference,Choice of Model
+"Calculating standard error of estimate, Wald-Chi Square statistic, p-value with logistic regression in Spark",Choice of Parameter,Training
+How to use mllib.recommendation if the user ids are string instead of contiguous integers?,Model Creation,Choice of Model
+How to do an item based recommendation in spark mllib?,Model Creation,Choice of Model
+Apache Spark ALS - how to perform Live Recommendations / fold-in anonym user,Model Creation,Choice of Model
+Spark MLLib TFIDF implementation for LogisticRegression,Model Creation,Choice of Model
+Mllib dependency error,Dependency,Library
+"Spark, DataFrame: apply transformer/estimator on groups",Data Cleaning,Data Preparation
+"SPARK, ML, Tuning, CrossValidator: access the metrics",Evaluation Strategy,Evaluation
+Spark MLlib: building classifiers for each data group,Feature Extraction,Data Preparation
+Spark MlLib linear regression (Linear least squares) giving random results,Prediction,Prediction
+"Spark LinearRegressionSummary ""normal"" summary",Output Interpretation,Prediction
+Matrix Multiplication in Apache Spark,Model Creation,Choice of Model
+SparkError: Total size of serialized results of XXXX tasks (2.0 GB) is bigger than spark.driver.maxResultSize (2.0 GB),Error/Exception,Training
+Spark MLLib Linear Regression model intercept is always 0.0?,Convergence,Training
+Spark Ml Evaluation method,Evaluation Strategy,Evaluation
+Save ML model for future usage,Storing Model,Library
+Dealing with unbalanced datasets in Spark MLlib,Data Cleaning,Data Preparation
+How to convert type Row into Vector to feed to the KMeans,Adapting Data,Data Preparation
+Spark Word2vec vector mathematics,Model Creation,Choice of Model
+Why spark.ml don't implement any of spark.mllib algorithms?,Model Creation,Choice of Model
+PySpark & MLLib: Class Probabilities of Random Forest Predictions,Prediction,Prediction
+Non linear (DAG) ML pipelines in Apache Spark,Model Creation,Choice of Model
+Pyspark computing correlation,Model Creation,Choice of Model
+Attach metadata to vector column in Spark,Adapting Data,Data Preparation
+What is the right way to save\load models in Spark\PySpark,Loading model,Library
+Sparse Vector vs Dense Vector,Adapting Data,Data Preparation
+Error ExecutorLostFailure when running a task in Spark,Error/Exception,Training
+Spark K-fold Cross Validation,Evaluation Strategy,Evaluation
+How to handle categorical features with spark-ml?,Adapting Data,Data Preparation
+Speed up collaborative filtering for large dataset in Spark MLLib,Performance,Training
+Does collect_list() maintain relative ordering of rows?,Adapting Data,Data Preparation
+how to make RMSE(root mean square error) small when use ALS of spark?,Choice of Loss function,Training
+The order of the output is not in order of the given input,Prediction,Prediction
+NumPy exception when using MLlib even though Numpy is installed,Error/Exception,Training
+Converting RDD[org.apache.spark.sql.Row] to RDD[org.apache.spark.mllib.linalg.Vector],Adapting Data,Data Preparation
+How to convert org.apache.spark.rdd.RDD[Array[Double]] to Array[Double] which is required by Spark MLlib,Adapting Data,Data Preparation
+Spark LDA consumes too much memory,Performance,Training
+How do I use Spark's Feature Importance on Random Forest?,Feature Selection,Data Preparation
+spark-How can I retrieve item-pair after calculating similarity using RowMatrix,Model Creation,Choice of Model
+Spark Matrix multiplication with python,Model Creation,Choice of Model
+How to give predicted and label columns in BinaryClassificationMetrics evaluation for Naive Bayes model,Prediction,Prediction
+Spark CrossValidatorModel access other models than the bestModel?,Evaluation Strategy,Evaluation

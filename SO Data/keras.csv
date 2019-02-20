@@ -1,0 +1,393 @@
+Title,,
+Why is my GPU slower than CPU when training LSTM/RNN models?,Performance,Training
+What is the meaning of axis=-1 in keras.argmax?,Choice of Parameter,Training
+How to save Scikit-Learn-Keras Model into a Persistence File (pickle/hd5/json/yaml),Storing Model,Library
+How to convert a dense layer to an equivalent convolutional layer in Keras?,Model Creation,Choice of Model
+keras: how to save the training history,Storing Model,Library
+Training a fully convolutional neural network with inputs of variable size takes unreasonably long time in Keras/TensorFlow,Performance,Training
+Theano - Keras - No Module named `pool`,Dependency,Library
+How to use the Embedding Layer for Recurrent Neural Network (RNN) in Keras,Model Creation,Choice of Model
+Can ReLU handle a negative input?,Model Creation,Choice of Model
+Gradient from Theano expression for filter visualization in Keras,Model Creation,Choice of Model
+How to implement a deep bidirectional LSTM with Keras?,Model Creation,Choice of Model
+Can Keras with Tensorflow backend be forced to use CPU or GPU at will?,Platform,Library
+Why does this Keras model require over 6GB of memory?,Performance,Training
+Keras: class weights (class_weight) for one-hot encoding,Adapting data,Data Preparation
+Wrong number of dimensions on model.fit,Shape mismatch,Data Preparation
+RMSE/ RMSLE loss function in Keras,Choice of Loss function,Training
+How does Keras handle multilabel classification?,Prediction,Prediction
+Convert Keras model to TensorFlow protobuf,Converting model,Choice of Model
+Understanding stateful LSTM,Model Creation,Choice of Model
+Multiplying the output of two layers in keras,Model Creation,Choice of Model
+Keras model.to_json() error: 'rawunicodeescape' codec can't decode bytes in position 94-98: truncated \uXXXX,Error/Exception,Training
+AttributeError:'Tensor' object has no attribute '_keras_history',Error/Exception,Training
+"Python/Keras - Wrong number of dimensions: expected 3, got 2 with shape (119, 80)",Shape mismatch,Data Preparation
+Keras loading color images,Adapting data,Data Preparation
+Keras freezes when using ImageDataGenerator,Error/Exception,Training
+How to do multi GPU training with Keras?,Platform,Library
+Keras + Tensorflow strange results,PRediction,Prediction
+Using Keras & Tensorflow with AMD GPU,Platform,Library
+How to get labels ids in Keras when training on multiple classes?,Feature Extraction,Data Preparation
+How to handle variable sized input in CNN with Keras?,Adapting data,Data Preparation
+How should I optimize neural network for image classification using pretrained models,Performance,Training
+How do you get the name of the tensorflow output nodes in a Keras Model?,Model Properties,Evaluation
+"Keras + tensorflow gives the error ""no attribute 'control_flow_ops'""",Error/Exception,Training
+keras tensorboard: plot train and validation scalars in a same figure,Model Properties,Evaluation
+"Building a mutlivariate, multi-task LSTM with Keras",Model Creation,Choice of Model
+Keras using Tensorflow backend-- masking on loss function,Choice of Loss function,Training
+visualization of convolutional layer in keras model,Model Properties,Evaluation
+Implement word2vec in Keras,Model Creation,Choice of Model
+Theano with Keras on Raspberry Pi,Platform,Library
+"Run Identical model on multiple GPUs, but send different user data to each GPU",Model Creation,Choice of Model
+Tensorflow: simultaneous prediction on GPU and CPU,Prediction,Prediction
+Character-Word Embeddings from lm_1b in Keras,Model Creation,Choice of Model
+Keras: Difference between Kernel and Activity regularizers,Choice of Regularization,Training
+Keras + TensorFlow Realtime training chart,Visualization,Evaluation
+keras flow_from_directory over or undersample a class,Adapting data,Data Preparation
+scikit-learn - Convert pipeline prediction to original value/scale,Prediction,Prediction
+balancing an imbalanced dataset with keras image generator,Data Cleaning,Data Preparation
+Trying to get simple Keras neural net example to work,Model Creation,Choice of Model
+Many to one and many to many LSTM examples in Keras,Model Creation,Choice of Model
+How to determine needed memory of Keras model?,Performance,Training
+How to have parallel convolutional layers in keras?,Model Creation,Choice of Model
+Can I implement deep learning models in my laptop with intel hd graphics,Platform,Library
+How to find Number of parameters of a keras model?,Choice of Parameter,Training
+ImportError: No module named 'keras.utils.visualize_util',Dependency,Library
+Keras - How to construct a shared Embedding() Layer for each Input-Neuron,Model Creation,Choice of Model
+How to code a sequence to sequence RNN in keras?,Model Creation,Choice of Model
+How to use Keras TensorBoard callback for grid search,Evaluation Strategy,Evaluation
+How to switch Backend with Keras (from TensorFlow to Theano),Platform,Library
+How do stateful bidirectional RNNs work in Keras,Model Creation,Choice of Model
+Resizing an input image in a Keras Lambda layer,Shape mismatch,Data Preparation
+How to calculate prediction uncertainty using Keras?,Prediction,Prediction
+Multi dimensional input for LSTM in Keras,Shape mismatch,Data Preparation
+Python keras how to transform a dense layer into a convolutional layer,Model Creation,Choice of Model
+"""g++ not detected"" while data set goes larger, is there any limit to matrix size in GPU?",Dependency,Library
+Keras Implementation of Customized Loss Function that need internal layer output as label,Choice of Loss function,Training
+How to create custom objective function in Keras?,Choice of Optimizer,Training
+How to get reproducible results in keras,Prediction,Prediction
+Pandas - KeyError: '[] not in index' when training a Keras model,Error/Exception,Training
+Import theano gives the AttributeError: module 'theano' has no attribute 'gof',Dependency,Library
+Why is binary_crossentropy more accurate than categorical_crossentropy for multiclass classification in Keras?,Choice of Loss function,Training
+How big should batch size and number of epochs be when fitting a model in Keras?,Choice of Parameter,Training
+How to load a model from an HDF5 file in Keras?,Loading model,Library
+One to many LSTM in Keras,Model Creation,Choice of Model
+How to check the weights after every epoc in Keras model,Evaluation Strategy,Evaluation
+Keras binary_crossentropy vs categorical_crossentropy performance?,Choice of Loss function,Training
+Add AUC as loss function for keras,Choice of Loss function,Training
+Effect of class_weight and sample_weight in Keras,Choice of Parameter,Training
+Import keras.datasets not working,Dependency,Library
+Keras Early Stopping,Choice of Parameter,Training
+"In Keras model.fit_generator() method, what is the generator queue controlled parameter ""max_q_size"" used for?",Choice of Parameter,Training
+How to enable Keras with Theano to utilize multiple GPUs,Platform,Library
+How to get both score and accuracy after training,Evaluation Strategy,Evaluation
+Unpredictable CUDNN_STATUS_NOT_INITIALIZED on Windows,Platform,Library
+Get audiences insights using Keras and TensorFlow,Prediction,Prediction
+Multithreading in tensorflow/keras,Performance,Training
+"Keras, how do I predict after I trained a model?",Prediction,Prediction
+how to save a scikit-learn pipline with keras regressor inside to disk?,Storing Model,Library
+Implementing a Siamese NN in Keras,Model Creation,Choice of Model
+Keras mixture of models,Model Creation,Choice of Model
+Neural network: estimating sine wave frequency,Prediction,Prediction
+How do I build a custom RNN layer in Keras?,Model Creation,Choice of Model
+Center Loss in Keras,Choice of Loss function,Training
+Fully convolutional autoencoder for variable-sized images in keras,Model Creation,Choice of Model
+Show progress bar for each epoch during batchwise training in Keras,Visualization,Evaluation
+Keras neural network outputs same result for every input,Prediction,Prediction
+How to import keras from tf.keras in Tensorflow?,Dependency,Library
+Getting gradient of model output w.r.t weights using Keras,Model Creation,Choice of Model
+Keras: reshape to connect lstm and conv,Shape mismatch,Data Preparation
+Make predictions using a tensorflow graph from a keras model,Prediction,Prediction
+How can I convert a trained Tensorflow model to Keras?,Converting model,Library
+Class weights in binary classification model with Keras,Model Creation,Choice of Model
+TimeDistributed vs. TimeDistributedDense Keras,Model Creation,Choice of Model
+Keras + Tensorflow: Prediction on multiple gpus,Prediction,Prediction
+Keras intermediate layers output,Evaluation Strategy,Evaluation
+How to use advanced activation layers in Keras?,Model Creation,Choice of Model
+Keras + IndexError,Error/Exception,Training
+ImportError:'save_weights' requires h5py,Dependency,Library
+"What's the difference between ""samples_per_epoch"" and ""steps_per_epoch"" in fit_generator",Choice of Parameter,Training
+Keras: ImportError: No module named data_utils,Dependency,Library
+How to Implement the Conv1DTranspose in keras?,Model Creation,Choice of Model
+What is the difference between Keras and tf.contrib.keras in TensorFlow 1.1+?,General Library API,Library
+Can't change activations in existing Keras model,Model Creation,Choice of Model
+Keras (Tensorflow backend) slower on GPU than on CPU when training certain networks,Performance,Training
+Using Keras for video prediction (time series),Model Creation,Choice of Model
+keras model.fit_generator() several times slower than model.fit(),Performance,Training
+Frozen model from Keras doesn't predict after restoration,Prediction,Prediction
+Keras attention layer over LSTM,Model Creation,Choice of Model
+How to use return_sequences option and TimeDistributed layer in Keras?,Model Creation,Choice of Model
+Is there a DropConnect layer in Keras?,Model Creation,Choice of Model
+How to concatenate two layers in keras?,Model Creation,Choice of Model
+nvcc fatal : Cannot find compiler 'cl.exe' in PATH although Visual Studio 12.0 is added to PATH,Dependency,Library
+How to export Keras .h5 to tensorflow .pb?,Converting model,Library
+Keras: convert pretrained weights between theano and tensorflow,Converting model,Library
+How to return history of validation loss in Keras,Evaluation Strategy,Evaluation
+Why do I get a Keras LSTM RNN input_shape error?,Shape mismatch,Data Preparation
+LSTM Autoencoder,Model Creation,Choice of Model
+What is the advantage of using an InputLayer (or an Input) in a Keras model with Tensorflow tensors?,Model Creation,Choice of Model
+Keras model.summary() object to string,Model Properties,Evaluation
+How to add and remove new layers in keras after loading weights?,Model Creation,Choice of Model
+"Keras, How to get the output of each layer?",Evaluation Strategy,Evaluation
+Calling a stateful LSTM as a functional model?,Model Creation,Choice of Model
+What does `layer.get_weights()` return?,Model Properties,Evaluation
+How to calculate precision and recall in Keras,Accuracy,Training
+Keras Custom Metric for single class accuracy,Accuracy,Training
+Difference between Dense and Activation layer in Keras,Model Creation,Choice of Model
+How to compute Receiving Operating Characteristic (ROC) and AUC in keras?,Evaluation Strategy,Evaluation
+Loading a trained Keras model and continue training,Loading model,Library
+Keras load weights of a neural network / error when predicting,Prediction,Prediction
+"Keras error ""You must feed a value for placeholder tensor 'bidirectional_1/keras_learning_phase' with dtype bool""",Type mismatch,Data Preparation
+How can I use categorical one-hot labels for training with Keras?,Adapting data,Data Preparation
+Cannot train a neural network solving XOR mapping,Error/Exception,Training
+"Role of ""Flatten"" in Keras",General Library API,Library
+Possible/maybe category in deep learning,Choice of Parameter,Training
+How to set the input of a Keras layer with a Tensorflow tensor?,Adapting data,Data Preparation
+How to predict input image using trained model in Keras?,Prediction,Prediction
+LSTM Model in Keras with Auxiliary Inputs,Adapting data,Data Preparation
+AttributeError: 'module' object has no attribute 'computation',Error/Exception,Training
+Multi scale CNN Network Python Keras,Model Creation,Choice of Model
+How Can I use my GPU on Ipython Notebook?,Platform,Library
+Convert trained Keras image classification model to coreml and integrate in iOS11,Converting model,Library
+What do Keras convolution layers do with color channels?,Model Creation,Choice of Model
+How to deal with length variations for text classification using CNN (Keras),Shape mismatch,Data Preparation
+How exactly does Keras take dimension argumentsfor LSTM / time series problems?,Model Creation,Choice of Model
+Why does prediction needs batch size in Keras?,Prediction,Prediction
+How to prepare a dataset for Keras?,Adapting data,Data Preparation
+What is an Embedding in Keras?,Model Creation,Choice of Model
+How to log Keras loss output to a file,General Library API,Library
+Understanding Seq2Seq model,Model Creation,Choice of Model
+Get class labels from Keras functional model,Model Properties,Evaluation
+"Calling ""fit"" multiple times in Keras",Choice of Optimizer,Training
+Keras dependencies needed for prediction only in AWS Lambda,Dependency,Library
+Recurrentshop and Keras: multi-dimensional RNN results in a dimensions mismatch error,Shape mismatch,Data Preparation
+Keras CNN images and kernel size mismatch even after image transformation to fit,Shape mismatch,Data Preparation
+CNN gives biased results,Prediction,Prediction
+Integrate Python based TensorFlow into a .NET application,Platform,Library
+Keras Conv2D and input channels,Model Creation,Choice of Model
+Where do I call the BatchNormalization function in Keras?,Choice of Normalization,Training
+Keras custom decision threshold for precision and recall,Choice of Parameter,Training
+How to use numpy functions on a keras tensor in the loss function?,Choice of Loss function,Training
+What are the differences between keras model.save() and model.save_weights()?,Storing Model,Library
+How to do point-wise categorical crossentropy loss in Keras?,Choice of Loss function,Training
+Cannot load keras model with custom metric,Loading model,Library
+how to initialize layers by numpy array in keras,Model Creation,Choice of Model
+Keras | TypeError: __init__() missing 1 required positional argument: 'nb_col',Type mismatch,Data Preparation
+Why can model not even predict sine,Prediction,Prediction
+Keras and Sklearn logreg returning different results,Prediction,Prediction
+When does keras reset an LSTM state?,General Library API,Library
+How to interpret weights in a LSTM layer in Keras,Model Properties,Evaluation
+Why do I have to do two train steps for fine-tuning InceptionV3 in Keras?,Performance,Training
+Callbackfunction modelcheckpoint causes error in keras,Error/Exception,Training
+How to make Keras use Tensorflow backend in Anaconda?,Platform,Library
+How to calculate the number of parameters of an LSTM network?,Choice of Parameter,Training
+Prediction is depending on the batch size in Keras,Prediction,Prediction
+Do Keras dropout and GaussianNoise layers apply different instances of noise in every batch?,Model Creation,Choice of Model
+How to verify structure a neural network in keras model?,Evaluation Strategy,Evaluation
+TensorFlow/Keras multi-threaded model fitting,Performance,Training
+Keras' fit_generator extra training value,Choice of Parameter,Training
+How to calculate F1 Macro in Keras?,Accuracy,Training
+Saliency maps of neural networks (using Keras),Model Creation,Choice of Model
+input dimensions to a one dimensional convolutional network in keras,Adapting data,Data Preparation
+How can implement subsample like keras in tensorflow?,Adapting data,Data Preparation
+Is it possible to visualize keras embeddings in tensorboard?,Visualization,Evaluation
+Keras RNN with LSTM cells for predicting multiple output time series based on multiple intput time series,Prediction,Prediction
+Keras Masking for RNN with Varying Time Steps,Model Creation,Choice of Model
+add Batch Normalization immediately before non-linearity or after in Keras?,Choice of Parameter,Training
+Keras error : Expected to see 1 array,Shape mismatch,Data Preparation
+Error when checking model target: expected dense_24 to have shape...but got array with shape... in Keras,Shape mismatch,Data Preparation
+Hacky way to augment multichannel images in Keras,Adapting data,Data Preparation
+Is Keras thread safe?,General Library API,Library
+Keras Classification - Object Detection,Prediction,Prediction
+Add dropout layers between pretrained dense layers in keras,Model Creation,Choice of Model
+Prevent over-fitting of text classification using Word embedding with LSTM,Accuracy,Training
+How flatten layer works in keras?,Model Creation,Choice of Model
+ValueError ë‰You are trying to use the old GPU back-endë_ when importing keras,Type mismatch,Data Preparation
+How do you create a custom activation function with Keras?,Custom code,Library
+Keras : How should I prepare input data for RNN?,Adapting data,Data Preparation
+How to use log_loss as metric in Keras?,Choice of Loss function,Training
+ImportError: cannot import name np_utils,Dependency,Library
+Should I use loss or accuracy as the early stopping metric?,Choice of Parameter,Training
+"Keras, sparse matrix issue",Adapting data,Data Preparation
+Is this basic convolution performed in ordinary convolutional neural network?,Model Creation,Choice of Model
+how to implement custom metric in keras?,Custom code,Library
+Data Augmentation Image Data Generator Keras Semantic Segmentation,Adapting data,Data Preparation
+How can I implement max norm constraints in an MLP in tensorflow?,Model Creation,Choice of Model
+How do I create a variable-length input LSTM in Keras?,Model Creation,Choice of Model
+Obtaining a prediction in Keras,Prediction,Prediction
+Keras - 1D Convolution How it works,Understanding model,Choice of Model
+"ResNet: 100% accuracy during training, but 33% prediction accuracy with the same data",Accuracy,Training
+Keras Convolution2D Input: Error when checking model input: expected convolution2d_input_1 to have shape,Shape mismatch,Data Preparation
+Why can't my DQN agent find the optimal policy in a non-deterministic environment?,Performance,Training
+How to change Keras backend (where's the json file)?,Platform,Library
+"What is ""metrics"" in Keras?",General Library API,Library
+How to control memory while using Keras with tensorflow backend?,Performance,Training
+Convert Keras model to C++,Converting model,Library
+"Keras input explanation: input_shape, units, batch_size, dim, etc",Adapting data,Data Preparation
+Keras for implement convolution neural network,Model Creation,Choice of Model
+Obtaining output of an Intermediate layer in TensorFlow/Keras,Output Interpretation,Pipeline
+Custom loss function in Keras,Custom code,Library
+Multiple outputs in Keras,Prediction,Prediction
+Many to many sequence prediction with different sequence length,Model Creation,Choice of Model
+How do I use the Tensorboard callback of Keras?,General Library API,Library
+Keras + Tensorflow and Multiprocessing in Python,Performance,Training
+Input LSTM on multivariate time series,Adapting data,Data Preparation
+keras ignoring values in $HOME/.keras/keras.json file,Dependency,Library
+Keras multi-class prediction output is limited to one class,Prediction,Prediction
+Negative dimension size caused by subtracting 3 from 1 for 'Conv2D',Shape mismatch,Data Preparation
+Keras: Exception: Received unknown keyword arguments: {'epochs': 100},Error/Exception,Training
+Keras IndexError: indices are out-of-bounds,Error/Exception,Training
+Creating a generator from list of sequences for RNN,Model Creation,Choice of Model
+Keras retrieve value of node before activation function,Output Interpretation,Evaluation
+Keras confusion about number of layers,Model Creation,Choice of Model
+keras BLSTM for sequence labeling,Model Creation,Choice of Model
+Equal arrays but not the same visually,Prediction,Prediction
+How do you make TensorFlow + Keras fast with a TFRecord dataset?,Performance,Training
+How to change Keras optimizer code,Override,Library
+How to work with multiple inputs for LSTM in Keras?,Adapting data,Data Preparation
+What does the standard Keras model output mean? What is epoch and loss in Keras?,Choice of Parameter,Training
+How to tell which Keras model is better?,Best Model,Choice of Model
+Mnist recognition using keras,Model Creation,Choice of Model
+What is the difference between Keras' MaxPooling1D and GlobalMaxPooling1D functions?,Model Creation,Choice of Model
+Anyone some API about the keras.layers.Input,Adapting data,Data Preparation
+Incorporating user feedback in a ML model,Model Creation,Choice of Model
+Keras Text Preprocessing - Saving Tokenizer object to file for scoring,Model Creation,Choice of Model
+Keras import error Nadam,Dependency,Library
+Keras: the difference between LSTM dropout and LSTM recurrent dropout,Model Creation,Choice of Model
+Batch normalization instead of input normalization,Choice of Normalization,Training
+TensorFlow: Blas GEMM launch failed,Error/Exception,Training
+Keras - Text Classification - LSTM - How to input text?,Adapting data,Data Preparation
+"Keras: ""RuntimeError: Failed to import pydot."" after installing graphviz and pydot",Error/Exception,Training
+Keras accuracy does not change,Convergence,Training
+How to turn entire keras model into theano function,Converting model,Library
+NaN loss when training regression network,Error/Exception,Training
+Keras/Tensorflow predict: error in array shape,Shape mismatch,Data Preparation
+How to check which version of Keras is installed?,Platform,Library
+Understanding Keras LSTMs,Model Creation,Choice of Model
+Cannot import keras after installation,Installation,Library
+Do you need to standardize inputs if you are using Batch Normalization?,Adapting data,Data Preparation
+Neural Network LSTM input shape from dataframe,Shape mismatch,Data Preparation
+Keras - stateful vs stateless LSTMs,Best Model,Choice of Model
+Keras custom RMSLE metric,Custom code,Library
+"Keras uses way too much GPU memory when calling train_on_batch, fit, etc",Performance,Training
+How to update weights in keras for reinforcement learning?,Model Creation,Choice of Model
+How do I implement the Triplet Loss in Keras?,Custom code,Library
+Can Keras deal with input images with different size?,Adapting data,Data Preparation
+Keras Maxpooling2d layer gives ValueError,Error/Exception,Training
+How to change the temperature of a softmax output in Keras,Choice of Parameter,Training
+How to get rid of tensorflow verbose messages with Keras,Override,Library
+How to train a LSTM model with different N-dimensions labels?,Model Creation,Choice of Model
+Keras with Tensorflow backend on GPU. MKL ERROR: Parameter 4 was incorrect on entry to DLASCL,Error/Exception,Training
+"Error when checking model input: expected convolution2d_input_1 to have 4 dimensions, but got array with shape (32, 32, 3)",Shape mismatch,Data Preparation
+Add Tensorflow pre-processing to existing Keras model (for use in Tensorflow Serving),Model Creation,Choice of Model
+Python Keras cross_val_score Error,Error/Exception,Training
+How to pass a parameter to Scikit-Learn Keras model function,Choice of Parameter,Training
+How to install TensorFlow in jupyter notebook on Azure Machine Learning Studio,Installation,Library
+"Keras and TensorFlow: What means ""Peer access not supported between device ordinals 0 and 1"" and how to fix it?",Error/Exception,Training
+How to properly manage memory and batch size with TensorFlow,Performance,Training
+Keras verbose training progress bar writing a new line on each batch issue,Library messages,Library
+How to use a tensorflow model extracted from a trained keras model,Converting model,Library
+Convolutional neural network Conv1d input shape,Shape mismatch,Data Preparation
+How to use Keras to build a Part-of-Speech tagger?,Model Creation,Choice of Model
+Using pre-trained word2vec with LSTM for word generation,Model Creation,Choice of Model
+Tensorflow AttributeError: 'NoneType' object has no attribute 'TF_DeleteStatus',Error/Exception,Training
+"When bulding a CNN, I am getting complaints from Keras that do not make sense to me.",Creation error,Choice of Model
+Tensorflow not running on GPU,Platform,Library
+"Keras Neural Nets, How to remove NaN values in output?",Data Cleaning,Data Preparation
+How can I use the Keras OCR example?,Reuse,Library
+Varying sequence length in Keras without padding,Model Creation,Choice of Model
+XOR not learned using keras v2.0,Accuracy,Training
+masking for keras BLSTM,Model Creation,Choice of Model
+What is data type for Python Keras deep learning package?,Type mismatch,Data Preparation
+How can a neural network architecture be visualized with Keras?,Visualization,Evaluation
+In what order does 'flow_from_directory' function in keras takes the samples?,Adapting data,Data Preparation
+What is the difference between an Embedding Layer and a Dense Layer?,Model Creation,Choice of Model
+Sentence similarity using keras,Model Creation,Choice of Model
+How to create a Image Dataset just like MNIST dataset?,Adapting data,Data Preparation
+How to construct input data to LSTM for time series multi-step horizon with external features?,Adapting data,Data Preparation
+What is the role of TimeDistributed layer in Keras?,Model Creation,Choice of Model
+Dimension of shape in conv1D,Shape mismatch,Data Preparation
+Keras: How to feed input directly into other hidden layers of the neural net than the first?,Adapting data,Data Preparation
+Why does shuffling my validation set in Keras change my model's performance?,Evaluation Strategy,Evaluation
+How does data normalization work in keras during prediction?,Prediction,Prediction
+Can I use next layer's output as current layer's input by Keras?,Model Creation,Choice of Model
+How to use Merge layer (concat function) on Keras 2.0.0?,Model Creation,Choice of Model
+How can I train a DDPG with Keras to echo points back based on its observations?,Model Creation,Choice of Model
+Is the L1 regularization in Keras/Tensorflow *really* L1-regularization?,Choice of Regularization,Training
+How to implement a Mean Pooling layer in Keras,Custom code,Library
+How do I check if keras is using gpu version of tensorflow?,Platform,Library
+How should we pad text sequence in keras using pad_sequences?,Adapting data,Data Preparation
+Cross Entropy Loss for Semantic Segmentation Keras,Choice of Loss function,Training
+Keras not using multiple cores,Platform,Library
+How to configure a very simple LSTM with Keras / Theano for Regression,Model Creation,Choice of Model
+How to use weights to manually predict data in neural network with karas,Prediction,Prediction
+Debugging keras intermediate layer or objective variables with tensorflow,Output Interpretation,Evaluation
+Running Tensorflow in Jupyter Notebook,Platform,Library
+Using Deep Learning to Predict Subsequence from Sequence,Prediction,Prediction
+Keras - Save image embedding of the mnist data set,Storing Model,Library
+Python/Keras/Theano wrong dimensions for Deep Autoencoder,Shape mismatch,Data Preparation
+Dimension Mismatch in LSTM Keras,Shape mismatch,Data Preparation
+LSTM with Keras for mini-batch training and online testing,Model Creation,Choice of Model
+np_utils.to_categorical Reverse,General Library API,Library
+"Same code, very different accuracy on windows/ubuntu (Keras/Tensorflow)",Accuracy,Training
+How to approximate the determinant with keras,Model Creation,Choice of Model
+"How does keras define ""accuracy"" and ""loss""?",Choice of Loss function,Training
+Keras flowFromDirectory get file names as they are being generated,General Library API,Evaluation
+How to Properly Combine TensorFlow's Dataset API and Keras?,Adapting data,Data Preparation
+Policy Gradients in Keras,Choice of Loss function,Training
+How can I train neural network to play the 2048 game?,Model Creation,Choice of Model
+keras: what is the difference between model.predict and model.predict_proba,Prediction,Prediction
+Keras How to use max_value in Relu activation function,Model Creation,Choice of Model
+How do I install Keras and Theano in Anaconda Python on Windows?,Installation,Library
+How to manually specify class labels in keras flow_from_directory?,Feature Extraction,Data Preparation
+Train multi-class image classifier in Keras,Model Creation,Choice of Model
+How to monitor tensor values in Theano/Keras?,Output Interpretation,Evaluation
+Keras learning rate not changing despite decay in SGD,Convergence,Training
+Keras | Getting the Inception v3 example running,Model Creation,Choice of Model
+How to plot a learning curve for a keras experiment?,Visualization,Evaluation
+How to extract relevant information from receipt,Output Interpretation,Evaluation
+keras: how to predict classes in order?,Prediction,Prediction
+How to provide learning rate value to tensorboard in keras,Choice of Parameter,Training
+keras autoencoder not converging,Convergence,Training
+How to run several Keras neural networks in parallel,Performance,Training
+How to create a loss function which changes over epoch in Keras,Custom code,Library
+Deconvolution2D layer in keras,Model Creation,Choice of Model
+Keras network can never classify the last class,Prediction,Prediction
+How to implement Weighted Binary CrossEntropy on theano?,Custom code,Library
+Keras LSTM predicted timeseries squashed and shifted,Prediction,Prediction
+How to stack multiple lstm in keras?,Model Creation,Choice of Model
+How to decode encoded data from deep autoencoder in Keras (unclarity in tutorial),Model Creation,Choice of Model
+Keras - Difference between categorical_accuracy and sparse_categorical_accuracy,Accuracy,Training
+TensorBoard Distributions and Histograms with Keras and fit_generator,Visualization,Evaluation
+The right way to define a function in theano?,Custom code,Library
+Keras VGG16 fine tuning,Model Creation,Choice of Model
+hyperas grid search with network with multiple inputs,Hyperparameter tuning,Hyper parameter tuning
+Use keras with tensorflow serving,Platform,Library
+facenet triplet loss with keras,Choice of Loss function,Training
+Defining an AUC metric for keras to support evaluation of validation dataset,Evaluation Strategy,Evaluation
+Keras. ValueError: I/O operation on closed file,Error/Exception,Training
+How training LSTM model for sequences items ?,Model Creation,Choice of Model
+How to use models from keras.applications for transfer learnig?,Model Creation,Choice of Model
+How to uninstall Keras?,Installation,Library
+How to implement sklearn's PolynomialFeatures in tensorflow?,Feature Extraction,Data Preparation
+Keras LSTM training data format,Adapting data,Data Preparation
+Why does Keras LSTM batch size used for prediction have to be the same as fitting batch size?,Choice of Parameter,Training
+Memory leak with TensorFlow,Performance,Training
+How is Hard Sigmoid defined,Model Creation,Choice of Model
+Is the Keras implementation of dropout correct?,Model Creation,Choice of Model
+How to avoid overfitting on a simple feed forward network,Prediction,Prediction
+How do I correctly implement a custom activity regularizer in Keras?,Choice of Regularization,Training
+How to tell Keras stop training based on loss value?,Convergence,Training
+Confusion between Binary_crossentropy and Categorical_crossentropy,Choice of Loss function,Training
+Keras model.summary() result - Understanding the # of Parameters,Model Properties,Evaluation
+Is this image too complex for a shallow NN classifier?,Adapting data,Data Preparation
+Object detection using Keras : simple way for faster R-CNN or YOLO,Performance,Training
+Can I share weights between keras layers but have other parameters differ?,Choice of Parameter,Training
+Saving tf.trainable_variables() using convert_variables_to_constants,Storing Model,Library
+Load saved checkpoint and predict not producing same results as in training,Loading model,Library
+Keras VGG extract features,Feature Extraction,Data Preparation
+Customize Keras' loss function in a way that the y_true will depend on y_pred,OVerride,Library
+Keras: batch training for multiple large datasets,Model Creation,Choice of Model
+Keras - How are batches and epochs used in fit_generator()?,Choice of Parameter,Training
+Predicting a multiple time step forward of a time series using LSTM,Prediction,Prediction
+keras error on predict,Prediction,Prediction

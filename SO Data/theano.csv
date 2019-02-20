@@ -1,0 +1,192 @@
+Title,,
+Theano CUDA exception,Platform,Library
+How to get reproducible results in keras,Prediction,Prediction
+Nolearn/Lasagne neural network not starting training,Convergence,Training
+Theano import error: No module named cPickle,Dependency,Library
+Theano: Why does indexing fail in this case?,Deprecated,Library
+Keras verbose training progress bar writing a new line on each batch issue,Library message,Library
+Gradient from Theano expression for filter visualization in Keras,Model Creation,Choice of model
+Defining a gradient with respect to a subtensor in Theano,Model Creation,Choice of model
+Multiplying the output of two layers in keras,Model Creation,Choice of model
+How Can I use my GPU on Ipython Notebook?,Platform,Library
+Import keras.datasets not working,Dependency,Library
+tensorflow store training data on GPU memory,Storing model,Library
+Call a function from scan in Theano,Error/Exception,Training
+Overlapping iteration over theano tensor,Override,Library
+"TypeError ""Bad input argument to theano function""",Type mismatch,Data Preparation
+How to run several Keras neural networks in parallel,Model Creation,Choice of model
+g++ error on import of Theano on Windows 7,Installation,Library
+"getting ""pygpu was configured but could not be imported"" error while trying with OpenCL+Theano on AMD Radeon",Dependency,Library
+Keras: reshape to connect lstm and conv,Model Creation,Choice of model
+theano g++ not detected,Dependency,Library
+Theano element wise maximum,Adapting data,Data Preparation
+Why I can't use theano.tensor.argmax and theano.tensor.mean correctly,Error/Exception,Training
+Keras IndexError: indices are out-of-bounds,Error/Exception,Training
+Python theano.scan taps argument,Choice of Parameter,Training
+compilation failure when running theano - windows 8.1 64 bit with Anaconda python distribution,Installation,Library
+nvcc fatal : Cannot find compiler 'cl.exe' in PATH although Visual Studio 12.0 is added to PATH,Dependency,Library
+ImportError: No module named theano,Dependency,Library
+How do I use Theanets LSTM RNN's on my time series data?,Model Creation,Choice of model
+Theano Import error,Dependency,Library
+How to add and remove new layers in keras after loading weights?,Model Creation,Choice of model
+NumPy precision when doing dot product,Accuracy,Training
+Nonlinear convolution in Theano,Model Creation,Choice of model
+"Why am I allowed pickle instancemethods that are Theano functions, but not normal instancemethods?",Model Creation,Choice of model
+How to install Theano on Anaconda Python 2.7 x64 on Windows?,Installation,Library
+Keras load weights of a neural network / error when predicting,Error/Exception,Training
+Getting Theano to use the GPU,Platform,Library
+Out of memory when creating a Theano shared variable with borrow=True,Error/Exception,Training
+How can I change device used of theano,Platform,Library
+How to perform multi-label learning with LSTM using theano?,Model Creation,Choice of model
+numpy array from csv file for lasagne,Adapting data,Data Preparation
+What is data type for Python Keras deep learning package?,Type mismatch,Data Preparation
+How to save / serialize a trained model in theano?,Storing model,Library
+Select GPU during execution in Theano,Platform,Library
+"How to define a cost function in nolearn, lasagne?",Choice of loss function,Training
+Is there hope for using Lasagne's Adam implementation for Probabilistic Matrix Factorization?,Choice of Optimizer,Training
+Getting gradient of model output w.r.t weights using Keras,Model Creation,Choice of model
+Solving reaction-diffusion system with Theano,Model Creation,Choice of model
+Activation function after pooling layer or convolutional layer?,Model Creation,Choice of model
+Python: rewrite a looping numpy math function to run on GPU,Override,Library
+Theano: Initialisation of device gpu failed! Reason=CNMEM_STATUS_OUT_OF_MEMORY,Platform,Library
+Theano fails due to NumPy Fortran mixup under Ubuntu,Platform,Library
+"Theano installation for Windows, Python 3, 64bit",Installation,Library
+TensorFlow or Theano: how do they know the loss function derivative based on the neural network graph?,Model Creation,Choice of model
+"Theano: How to take a ""matrix outer product"" where the elements are matrices",Model Creation,Choice of model
+How to make sense of tensorflow tensorboard Histograms?,Output Interpretation,Prediction
+How to configure a very simple LSTM with Keras / Theano for Regression,Model Creation,Choice of model
+Indexing in Theano,Adapting data,Data Preparation
+"Theano advanced indexing for tensor, shared index",Adapting data,Data Preparation
+"""g++ not detected"" while data set goes larger, is there any limit to matrix size in GPU?",Dependency,Library
+Loop over (or vectorize) variable length matrices in Theano,Adapting data,Data Preparation
+How to calculate GPU memory usage in Theano?,Performance,Training
+Conda keeps trying to install all optional dependencies?,Installation,Library
+Policy Gradients in Keras,Model Creation,Choice of model
+Create a shared row in theano,Adapting data,Data Preparation
+Visualize output of each layer in theano Convolutional MLP,Output Interpretation,Prediction
+"How to put my dataset in a .pkl file in the exact format and data structure used in ""mnist.pkl.gz""?",Adapting data,Data Preparation
+Theano HiddenLayer Activation Function,Model Creation,Choice of model
+Unsupervised pre-training for convolutional neural network in theano,Model Creation,Choice of model
+Add AUC as loss function for keras,Choice of loss function,Training
+Compilation error ld: library not found for -lgcc_ext in MacOSX,Dependency,Library
+how does theano.scan's updates work?,Choice of Optimizer,Training
+How to export ConvNet trained using Python's Theano/Lasagne to iOS?,Converting model,Library
+What do Keras convolution layers do with color channels?,Model Creation,Choice of model
+How can I get a 1D convolution in theano,Model Creation,Choice of model
+How to swich theano.tensor to numpy.array?,Adapting data,Data Preparation
+How can I assign/update subset of tensor shared variable in Theano?,Adapting data,Data Preparation
+"Keras, how do I predict after I trained a model?",Prediction,Prediction
+Add bias to Lasagne neural network layers,Model Creation,Choice of model
+How to implement Weighted Binary CrossEntropy on theano?,Choice of Loss function,Training
+Theano with Keras on Raspberry Pi,Platform,Library
+Can I (selectively) invert Theano gradients during backpropagation?,Model Creation,Choice of model
+Converting a theano model built on GPU to CPU?,Converting model,Library
+dimshuffle equivalent function in Numpy,Adapting data,Data Preparation
+"Theano uses gpu from the command line, but not from PyCharm",Platform,Library
+theano hard_sigmoid() breaks gradient descent,Error/Exception,Training
+keras ignoring values in $HOME/.keras/keras.json file,Platform,Library
+LSTM implementation with peephole,Model Creation,Choice of model
+Building Speech Dataset for LSTM binary classification,Adapting data,Data Preparation
+Python theano with index computed inside the loop,Model Creation,Choice of model
+Keras: convert pretrained weights between theano and tensorflow,Converting model,Library
+Reusing compiled Theano functions,Model Creation,Choice of model
+How to turn entire keras model into theano function,Converting model,Library
+NaN loss when training regression network,Data Cleaning,Data Preparation
+"Keras uses way too much GPU memory when calling train_on_batch, fit, etc",Performance,Training
+Pre-training ANN with RBM in pylearn2,Model Creation,Choice of model
+RuntimeError: module compiled against API version a but this version of numpy is 9 in ubuntu,Error/Exception,Training
+How to install TensorFlow in jupyter notebook on Azure Machine Learning Studio,Installation,Library
+Import theano gives the AttributeError: module 'theano' has no attribute 'gof',Dependency,Library
+How do I install Keras and Theano in Anaconda Python on Windows?,Installation,Library
+Using a GPU both as video card and GPGPU,Platform,Library
+The update order of theano function's update list,Model Creation,Choice of model
+How to enable Keras with Theano to utilize multiple GPUs,Platform,Library
+What is the number of filter in CNN?,Choice of Parameter,Training
+Theano/Lasagne/Nolearn Neural Network Image Input,Adapting data,Data Preparation
+Importing theano: AttributeError: 'module' object has no attribute 'find_graphviz',Dependency,Library
+Keras CNN images and kernel size mismatch even after image transformation to fit,Shape mismatch,Data Preparation
+pure-python RNN and theano RNN computing different gradients -- code and results provided,Prediction,Prediction
+pycuda vs theano vs pylearn2,Model Creation,Choice of model
+Using Python+Theano with OpenCL in an AMD GPU,Platform,Library
+MAC OSX10.11.4 python3 import theano error,Dependency,Library
+How is Hard Sigmoid defined,Model Creation,Choice of model
+How to set up theano config,Installation,Library
+Failed to compile cuda_ndarray.cu: libcublas.so.7.5: cannot open shared object file,Dependency,Library
+Theano CNN on CPU: AbstractConv2d Theano optimization failed,Error/Exception,Training
+Using Deep Learning to Predict Subsequence from Sequence,Prediction,Prediction
+Keras accuracy does not change,Convergence,Training
+How to change the temperature of a softmax output in Keras,Hyper parameter tuning,Hyper parameter tuning
+"Error importing theano ""cannot import name gof""",Dependency,Library
+input dimensions to a one dimensional convolutional network in keras,Shape mismatch,Data Preparation
+Simple MLP time series training yields unexpeced mean line results,Error/Exception,Training
+How to update weights in keras for reinforcement learning?,Hyper parameter tuning,Hyper parameter tuning
+pdist for theano tensor,Model Creation,Choice of model
+Installing Theano on Windows - DLL load failed,Installation,Library
+Python - Theano scan() function,Model Creation,Choice of model
+Theano - Keras - No Module named `pool`,Dependency,Library
+How to reuse Theano function with different shared variables without rebuilding graph?,Model Creation,Choice of model
+How configure theano on Windows?,Installation,Library
+WARNING (theano.configdefaults): g++ not detected ! Theano will be unable to execute optimized C-implementations,Dependency,Library
+Does Theano do automatic unfolding for BPTT?,Model Creation,Choice of model
+Keras freezes when using ImageDataGenerator,Adapting data,Data Preparation
+"WARNING (theano.sandbox.cuda): CUDA is installed, but device gpu is not available (error: cuda unavailable)",Dependency,Library
+IndexError: fail to coerce slice entry of type tensorvariable to integer,Error/Exception,Training
+Theano: Where to put .theanorc file for Anaconda installation? (Windows),Installation,Library
+Convert Keras model to C++,Converting model,Library
+Purpose of 'givens' variables in Theano.function,Choice of Parameter,Training
+Numpy installation error. (Mingw32CCompiler instance has no attribute 'compile_options'),Installation,Library
+3d sliding window operation in Theano?,Model Creation,Choice of model
+Theano switch row-wise efficiently,Adapting data,Data Preparation
+Error importing Theano,Dependency,Library
+theano - print value of TensorVariable,Output Interpretation,Prediction
+How do I install theano in Anaconda ver. 2.1 Windows 64 bit for Python 3.4?,Installation,Library
+What does 'no_inplace' mean in theano?,Choice of Parameter,Training
+Theano broadcasting different to numpy's,Data Cleaning,Data Preparation
+Implementing sparse connections in neural network (Theano),Model Creation,Choice of model
+Error because of Theano and NumPy variable types,Type mismatch,Data Preparation
+Keras not using multiple cores,Platform,Library
+how to fit a method belonging to an instance with pymc3?,Type mismatch,Data Preparation
+What is the right way to pass inputs parameters to a Theano function?,Choice of Parameter,Training
+Saliency maps of neural networks (using Keras),Model Creation,Choice of model
+How to get value from a theano tensor variable backed by a shared variable?,Model Creation,Choice of model
+Python/Keras/Theano wrong dimensions for Deep Autoencoder,Shape mismatch,Data Preparation
+Use of None in Array indexing in Python,Adapting data,Data Preparation
+What exactly is a tensor in theano?,Library Information,Library
+Keras VGG extract features,Feature Extraction,Data Preparation
+Customize Keras' loss function in a way that the y_true will depend on y_pred,Choice of Loss function,Training
+"installing theano ""blas error""",Installation,Library
+Very High Errors in Deep Belief Network with Nolearn in Python,Convergence,Training
+add Batch Normalization immediately before non-linearity or after in Keras?,Normalization,Training
+Theano stack matrices programmatically?,Adapting data,Data Preparation
+How to compute Receiving Operating Characteristic (ROC) and AUC in keras?,Prediction,Prediction
+Tensorflow: Diagonal Subtensor for 3D Convolutional NN,Adapting data,Data Preparation
+Installing theano on Windows 8 with GPU enabled,Installation,Library
+Theano config directly in script,Installation,Library
+ValueError Œ‚You are trying to use the old GPU back-endŒé when importing keras,Data Cleaning,Data Preparation
+how to setup cuDnn with theano on Windows 7 64 bit,Installation,Library
+How to monitor tensor values in Theano/Keras?,Output Interpretation,Library
+Do we need to use flatten and reshape in Theano if we use a matrix of indexes?,Adapting data,Data Preparation
+PyMC3 & Theano - Theano code that works stop working after pymc3 import,Dependency,Library
+import theano gets Illegal instruction,Dependency,Library
+"Is there a GPU accelerated numpy.max(X, axis=0) implementation in Theano?",Library Information,Library
+Deconvolution2D layer in keras,Model Creation,Choice of model
+"Calling ""fit"" multiple times in Keras",Model Creation,Choice of model
+Keras Convolution2D Input: Error when checking model input: expected convolution2d_input_1 to have shape,Shape mismatch,Data Preparation
+Implement word2vec in Keras,Model Creation,Choice of model
+How efficient/intelligent is Theano in computing gradients?,Performance,Training
+The right way to define a function in theano?,Add Custom Code,Library
+Is there a common format for neural networks,Model Creation,Choice of model
+Trying to get simple Keras neural net example to work,Model Creation,Choice of model
+normalize a matrix row-wise in theano,Adapting data,Data Preparation
+How can I speed up deep learning on a non-NVIDIA setup?,Performance,Training
+Nvidia Theano docker image not available,Dependency,Library
+How to apply outer product for tensors without unnecessary increase of dimensions?,Model Creation,Choice of model
+How to uninstall Keras?,Installation,Library
+anaconda python error importing theano,Dependency,Library
+does nolearn/lasagne support python 3,Dependency,Library
+OpenCL Theano - How to forcefully disable CUDA?,Platform,Library
+Keras model.summary() result - Understanding the # of Parameters,Output Interpretation,Prediction
+Keras - Text Classification - LSTM - How to input text?,Adapting data,Data Preparation
+"Keras: ""RuntimeError: Failed to import pydot."" after installing graphviz and pydot",Error/Exception,Training
+Theano: Get matrix dimension and value of matrix (SharedVariable),Library Information,Library
+Keras import error Nadam,Dependency,Library

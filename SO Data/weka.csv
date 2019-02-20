@@ -1,0 +1,117 @@
+Title,,
+Example for svm feature selection in R,Feature Selection,Data Preparation
+How can I use a different distance measure for the k-nearest neighbor in Java/Weka?,Choice of Parameter,Training
+"Java, Weka: How to predict numeric attribute?",Prediction,Prediction
+Detect a pronoun and its noun?,Model Creation,Choice of model
+what is the best way to generate fake data for classification problem?,Data cleaning,Data Preparation
+Export Weka Models for Use in C or C++,Converting model,Library
+Output confusion matrix in Weka from command line,Evaluation Strategy,Evaluation
+Weka: Results of each fold in 10-fold CV,Evaluation Strategy,Evaluation
+"How to test existing model with new instance in weka, using java code?",Evaluation Strategy,Evaluation
+Can one inspect the weights learned by a logistic regression classifier in weka?,Model Properties,Evaluation
+How to add weka features in a new algorithm?,Override ,Library
+How to deal with missing attribute values in C4.5 (J48) decision tree?,Data cleaning,Data Preparation
+Choose the right classification algorithm. Linear or non-linear?,Selecting model,Choice of model
+How to retrieve class values from WEKA using MATLAB,Converting model,Library
+Train and test set are not compatible error in weka?,Prediction,Prediction
+ERROR While using WEKA API in java code: Class Attribute Not Set?,Adapting Data,Data Preparation
+What is Class Index in WEKA?,Adapting Data,Data Preparation
+Parameters of a Weka Classifier,Choice of Parameter,Training
+How to use weights in Weka,Model Creation,Choice of model
+How to create a bag of words using Weka?,Adapting Data,Data Preparation
+Loding a weka model to a java code,Loading model,Library
+How to rank features by their importance in a Weka classifier?,Feature Selection,Data Preparation
+The type FastVector<E> is deprecated,Deprecated,Library
+How to interpret Weka Logistic Regression output?,Evaluation Strategy,Evaluation
+how to load .arff format file to matlab,Adapting Data,Data Preparation
+"Skip feature when classifying, but show feature in output",Feature Selection,Data Preparation
+Wrong number of values when importing csv in Weka,Data cleaning,Data Preparation
+Weka Attribute Selection,Feature Selection,Data Preparation
+"Weka GUI - Not enough memory, won't load?",Platform,Library
+Weka always producing same clusters for different data,Prediction,Prediction
+Increase heap to avoid Out of Memory Error in WEKA,Platform,Library
+Finding out wrongly classified instances when using WEKA,Prediction,Prediction
+How to read the classifier confusion matrix in WEKA,Evaluation Strategy,Evaluation
+Eclipse - Setting .classpath file for existing project,Installation,Library
+how to actually get the nearest neighbor in weka using java,Model Creation,Choice of model
+Weka CSV to Arff conversion : IllegalArgumentException: Attribute names are not unique,Adapting Data,Data Preparation
+"Weka CSVLoader wrong number of values. Read 2, expected 23",Adapting Data,Data Preparation
+Classify music to genre with WEKA,Model Creation,Choice of model
+What is pruned and unpruned tree in Weka?,Model Creation,Choice of model
+Learning Weka on the Command Line,Installation,Library
+Classifying Single Instance in Weka,Model Creation,Choice of model
+"Weka error ""cannot handle numeric class"" in Java code using LibSVM",Type mismatch,Data Preparation
+Weka's PCA is taking too long to run,Performance,Training
+WEKA classification likelihood of the classes,Model Creation,Choice of model
+How to use SVM in Weka?,Model Creation,Choice of model
+Weka model Read Error in android,Adapting Data,Data Preparation
+K-means with really large matrix,Model Creation,Choice of model
+How to read a text file with mixed encodings in Scala or Java?,Adapting Data,Data Preparation
+Why does the C4.5 algorithm use pruning in order to reduce the decision tree and how does pruning affect the predicion accuracy?,Model Properties,Evaluation
+How to learn a Bayesian Network (structure+parameters) with the WEKA API?,Choice of Parameter,Training
+Unseen nominal values in weka,Data cleaning,Data Preparation
+Adding a new Instance in weka,Adapting Data,Data Preparation
+.arff files with scikit-learn?,Adapting Data,Data Preparation
+WEKA K-Means Clustering,Model Creation,Choice of model
+Natural Language Processing - Features for Text Classification,Feature Selection,Data Preparation
+How to use weka for predict results,Prediction,Prediction
+Weka Creating Instance Object error,Error/Exception,Training
+"Error in plot, formula missing",Error/Exception,Training
+Why WEKA Evaluation class need train instances?,Evaluation Strategy,Evaluation
+How to interpret weka classification?,Evaluation Strategy,Evaluation
+Import WEKA model to MATLAB,Converting model,Library
+How to use LibSVM with Weka in my Java code?,Model Creation,Choice of model
+How to apply classifier in Weka's Explorer?,Model Creation,Choice of model
+How to specify the base classifier in stacking method when using Weka API?,Model Creation,Choice of model
+How do I use a JSON file with weka,Adapting Data,Data Preparation
+Interpreting the output of StringToWordVector() - Weka,Prediction,Prediction
+What is the meaning of jitter in visualize tab of weka,Choice of Parameter,Training
+What is evaluation of a cluster in WEKA?,Evaluation Strategy,Evaluation
+creating a string attribute in weka java API,Adapting Data,Data Preparation
+In R Studio I am getting Java Out of Memory (for RWeka),Platform,Library
+How to represent text for classification in weka?,Adapting Data,Data Preparation
+Using LIBSVM to predict authenticity of the user,Model Creation,Choice of model
+Creating ARFF from word frequencies,Adapting Data,Data Preparation
+weka - how to print incorrectly classified instances,Prediction,Prediction
+How to get predication value for an instance in weka?,Prediction,Prediction
+Unable to execute jar file despite having PATH and CLASSPATH set,Installation,Library
+How to calculate the threshold value for numeric attributes in Quinlan's C4.5 algorithm?,Choice of Parameter,Training
+Weka Predictions to CSV,Prediction,Prediction
+Java Weka: How to specify split percentage?,Adapting Data,Data Preparation
+Convert CSV to ARFF using weka,Adapting Data,Data Preparation
+"Formula for ""Relative absolute error"" and ""Root relative squared error"" used in machine learning (as computed by Weka)",Choice of loss function,Training
+Weka only changing numeric to nominal,Adapting Data,Data Preparation
+How to reuse saved classifier created from explorer(in weka) in eclipse java,Loading model,Library
+ARFF for natural language processing,Adapting Data,Data Preparation
+Text mining with PHP,Model Creation,Choice of model
+Difference Between J48 and Markov Chains,Model Creation,Choice of model
+Weka simple K-means clustering assignments,Model Creation,Choice of model
+weka.core.UnassignedDatasetException when creating an unlabeled instance,Error/Exception,Training
+Meaning of correctly classified instances weka,Prediction,Prediction
+Getting Xmeans clusterer output programmatically in Weka,Prediction,Prediction
+WEKA: How to filter multiple attribute ranges?,Adapting Data,Data Preparation
+Cross Validation in Weka,Evaluation Strategy,Evaluation
+Sentiment analysis with NLTK python for sentences using sample data or webservice?,Model Creation,Choice of model
+Weka in Matlab: why it works using wrong attributes?,Converting model,Library
+I need to make a SVM in weka to filter documents using Java,Model Creation,Choice of model
+Majority vote algorithm in Weka.classifiers.meta.vote,Library Other API,Library
+How to calculate the nearest neighbors using weka from the command line?,Evaluation Strategy,Evaluation
+Resample Filter of WEKA - How to interpret the result,Prediction,Prediction
+WEKA : Cost Matrix Interpretation,Choice of Loss function,Training
+Adding weka instances after classification but before evaluation?,Adapting Data,Data Preparation
+Weka normalizing columns,Normalizing,Data Preparation
+Increase heap size in java for weka,Platform,Library
+Creating an ARFF file from python output,Adapting Data,Data Preparation
+Adding CURE clustering algorithm to WEKA,Model Creation,Choice of model
+Mallet vs Weka for text classification,Model Creation,Choice of model
+Difference between SimpleLogistic and Logistic in Weka,Model Creation,Choice of model
+"Weka, SimpleKMeans cannot handle string attributes",Type mismatch,Data Preparation
+Weka : How to prepare test set in weka,Adapting Data,Data Preparation
+How to purposely overfit Weka tree classifiers?,Accuracy,Training
+How to add new nominal values to Instances using AddValues?,Adapting Data,Data Preparation
+Basic text classification with Weka in Java,Model Creation,Choice of model
+Can TF/IDF take classes in account,Model Creation,Choice of model
+what is f-measure for each class in weka,Choice of Parameter,Training
+What are data requirements for FP-Growth in Weka?,Adapting Data,Data Preparation
+How to add LibSVM class to WEKA classpath on a Mac,Platform,Library
+How to cluster an instance with Weka's DBSCAN?,Prediction,Prediction

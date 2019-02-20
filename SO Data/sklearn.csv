@@ -1,0 +1,860 @@
+Title,,
+Performing PCA on large sparse matrix by using sklearn,Model Creation,Choice of Model
+Under what parameters are SVC and LinearSVC in scikit-learn equivalent?,Choice of Parameters,Training
+Difference between score vs accuracy_score in sklearn,Accuracy,Training
+How to handle categorical variables in sklearn GradientBoostingClassifier?,Adapting Data ,Data Preparation
+Is scikit-learn suitable for big data tasks?,General Lirbrary ,Library
+Scikit-learn predict_proba gives wrong answers,Prediction,Prediction
+scikit-learn's GridSearchCV stops working when n_jobs>1,Evaluation Strategy,Evaluation
+Understanding Gaussian Mixture Models,Model Creation,Choice of Model
+How to see top n entries of term-document matrix after tfidf in scikit-learn,Prediction,Prediction
+Creating a sklearn.linear_model.LogisticRegression instance from existing coefficients,Model Creation,Choice of Model
+sklearn agglomerative clustering linkage matrix,Model Creation,Choice of Model
+Can sklearn random forest directly handle categorical features?,Feature Selection,Data Preparation
+How can sklearn select categorical features based on feature selection,Feature Selection,Data Preparation
+Scaling of target causes Scikit-learn SVM regression to break down,Error/Exception,Training
+Scikit Learn - K-Means - Elbow - criterion,Model Creation,Choice of Model
+Cannot import Scikit-Learn,Dependency,Library
+"Sklearn Linear Regression - ""IndexError: tuple index out of range""",Error/Exception,Training
+Preprocessing in scikit learn - single sample - Depreciation warning,Library Warnings,Library
+Sklearn set_params takes exactly 1 argument?,Choice of Parameters,Training
+How would one use Kernel Density Estimation as a 1D clustering method in scikit learn?,Model Creation,Choice of Model
+How to obtain reproducible but distinct instances of GroupKFold,Evaluation Strategy,Evaluation
+sklearn Kfold acces single fold instead of for loop,Evaluation Strategy,Evaluation
+Python Neural Network Reinforcement Learning,Model Creation,Choice of Model
+sklearn : TFIDF Transformer : How to get tf-idf values of given words in document,Prediction,Prediction
+parallel generation of random forests using scikit-learn,Model Creation,Choice of Model
+Converting python sparse matrix dict to scipy sparse matrix,Adapting Data ,Data Preparation
+What is a good range of values for the svm.SVC() hyperparameters to be explored via GridSearchCV()?,Hyperparameter tuning,Hyperparameter tuning
+Best Machine Learning package for Python 3x?,,
+Keep pandas structure with numpy/scikit functions,Adapting Data ,Data Preparation
+Pandas: Use multiple columns of a dataframe as index of another,Adapting Data ,Data Preparation
+Unbalanced classification using RandomForestClassifier in sklearn,Prediction,Prediction
+Deprecation warning in scikit-learn svmlight format loader,Deprecated,Library
+I have much more than 3 elements in every class but i get this error: class cannot be less than k=3 in scikit-learn,Error/Exception,Training
+"Does GridSearchCV use predict or predict_proba, when using auc_score as score function?",Hyperparameter tuning,Hyperparameter tuning
+How to store scaling parameters for later use,Feature Selection,Data Preparation
+sklearn.mixture.DPGMM: Unexpected results,Prediction,Prediction
+Using the class sklearn.cluster.SpectralClustering with parameter affinity='precomputed',Choice of Parameters,Training
+What is the difference between sample weight and class weight options in scikit learn?,Choice of Parameters,Training
+scikit-learn DBSCAN memory usage,Performance,Training
+Eliminating warnings from scikit-learn,Library Warnings,Library
+PCA For categorical features?,Feature Selection,Data Preparation
+sklearn selectKbest: which variables were chosen?,Feature Selection,Data Preparation
+scikit - random forest regressor - AttributeError: 'Thread' object has no attribute '_children',Error/Exception,Training
+Imbalance in scikit-learn,Shape mismatch,Data Preparation
+Pandas OneHotEncoder.fit(dataframe) returns ValueError: invalid literal for long() with base 10,Type mismatch,Data Preparation
+How do you visualize a ward tree from sklearn.cluster.ward_tree?,Visualization,Evaluation
+Why am I getting a data conversion warning?,Type mismatch,Data Preparation
+Using ranking data in Logistic Regression,Model Creation,Choice of Model
+How to perform cluster with weights/density in python? Something like kmeans with weights?,Model Creation,Choice of Model
+How to pass elegantly Sklearn's GridseachCV's best parameters to another model?,Hyperparameter tuning,Hyperparameter tuning
+Cost sensitive analysis in scikit-learn,Performance,Training
+Keep TFIDF result for predicting new content using Scikit for Python,Prediction,Prediction
+Non-Integer Class Labels Scikit-Learn,Type mismatch,Data Preparation
+"predict_proba or decision_function as estimator ""confidence""",Prediction,Prediction
+Python: how to normalize a confusion matrix?,Normalization,Training
+How to graph grid scores from GridSearchCV?,Hyperparameter tuning,Hyperparameter tuning
+how to explain the decision tree from scikit-learn,Properties of model,Evaluation
+"In scikit learn, how to deal with the data mixed with numerical and nominal value?",Adapting Data ,Data Preparation
+"sklearn dumping model using joblib, dumps multiple files. Which one is the correct model?",Storing model,Library
+Why does one hot encoding improve machine learning performance?,Accuracy,Training
+pip: pulling updates from remote git repository,Dependency,Library
+What is the correct way to add pandas/scikit-learn packages to your project for use in AWS lambda,Dependency,Library
+Python Keras cross_val_score Error,Error/Exception,Training
+tensorflow: saving and restoring session,General Lirbrary ,Library
+"Error with Sci-Kit Learn SGD Algo - ""Array contains NaN or infinity""",Data cleaning,Data Preparation
+which is best svm example which classifies plain input text?,Model Creation,Choice of Model
+Random Forest Classifier Segmentation Fault,Error/Exception,Training
+Find p-value (significance) in scikit-learn LinearRegression,Prediction,Prediction
+How to save Scikit-Learn-Keras Model into a Persistence File (pickle/hd5/json/yaml),Storing model,Library
+Bug in scikit-learns LDA function - plots shows non-zero correlation,Bug,Library
+Good ROC curve but poor precision-recall curve,Prediction,Prediction
+upgrade to dev version of scikit-learn on Anaconda?,Installation,Library
+How to extract equation from a polynomial fit?,Prediction,Prediction
+CountVectorizer: Vocabulary wasn't fitted,Error/Exception,Training
+"RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility",Type mismatch,Data Preparation
+DBSCAN error with cosine metric in python,Model Creation,Choice of Model
+Pass a dict to scikit learn estimator,Adapting Data ,Data Preparation
+Sparse implementations of distance computations in python / scikit-learn,Model Creation,Choice of Model
+Adding words to scikit-learn's CountVectorizer's stop list,Adapting Data ,Data Preparation
+Use attribute and target matrices for TensorFlow Linear Regression Python,Model Creation,Choice of Model
+sklearn.ensemble.AdaBoostClassifier cannot accecpt SVM as base_estimator?,Error/Exception,Training
+Matrix completion in Python,Adapting Data ,Data Preparation
+How to set a threshold for a sklearn classifier based on ROC results?,Choice of Parameters,Training
+Efficient nearest neighbour search for sparse matrices,Performance,Training
+Why is pydot unable to find GraphViz's executables in Windows 8?,Dependency,Library
+How to Find Documents That are in the same Cluster with KMeans,Prediction,Prediction
+"scikit learn: train_test_split, can I ensure same splits on different datasets",Split,Data Preparation
+TF*IDF for Search Queries,Model Creation,Choice of Model
+sklearn.linear_model not found in TensorFlow Udacity course,Dependency,Library
+how to tune parameters of custom kernel function with pipeline in scikit-learn,Hyperparameter tuning,Hyperparameter tuning
+Scikit Learn SVC decision_function and predict,Prediction,Prediction
+Extracting attributes from images using Scikit-image,Extracting feature,Data Preparation
+Choosing random_state for sklearn algorithms,Choice of Parameters,Training
+Random Forest interpretation in scikit-learn,Model Creation,Choice of Model
+Regression with Date variable using Scikit-learn,Model Creation,Choice of Model
+Proximity Matrix in sklearn.ensemble.RandomForestClassifier,Adapting Data ,Data Preparation
+multiprocessing.Pool hangs if child causes a segmentation fault,Error/Exception,Training
+SKlearn import MLPClassifier fails,Dependency,Library
+Cannot get scikit-learn installed on OS X,Installation,Library
+word-word co-occurrence matrix,Adapting Data ,Data Preparation
+How do you access tree depth in Python's scikit-learn?,Properties of model,Evaluation
+Is it possible to store python objects (specifically sklearn models) in memory mapped files?,Storing model,Library
+How can I plot a confusion matrix?,Visualization,Evaluation
+Object detection in images (HOG),Prediction,Prediction
+How to reverse sklearn.OneHotEncoder transform to recover original data?,Model Creation,Choice of Model
+Pandas dataset into an array for modelling in Scikit-Learn,Adapting Data ,Data Preparation
+"How to forecast in python using machine learning , from a given set of geographical data?",Prediction,Prediction
+Perform Chi-2 feature selection on TF and TF*IDF vectors,Feature Selection,Data Preparation
+Standard errors for multivariate regression coefficients,Loss function,Training
+Unequal misclassification costs in python/sklearn,Prediction,Prediction
+"graph.write_pdf(""iris.pdf"") AttributeError: 'list' object has no attribute 'write_pdf'",Error/Exception,Training
+RandomForestClassifier vs ExtraTreesClassifier in scikit learn,Best Model,Choice of Model
+"How to pre-process new instances for classification, so that the feature encoding is the same as the model with Scikit-learn?",Data cleaning,Data Preparation
+Implement K Neighbors Classifier and Linear SVM in scikit-learn for Word sense disambiguiation,Model Creation,Choice of Model
+"In scikit-learn, can DBSCAN use sparse matrix?",Adapting Data ,Data Preparation
+What is the difference between SVC and SVM in scikit-learn?,Best Model,Choice of Model
+how to extract the decision rules from scikit-learn decision-tree?,Properties of model,Evaluation
+Arrays used as indices must be of integer (or boolean) type,Type mismatch,Data Preparation
+Patsy: New levels in categorical fields in test data,Data cleaning,Data Preparation
+Cannot download and install scikit-learn,Installation,Library
+How to pass a parameter to Scikit-Learn Keras model function,Choice of Parameters,Training
+Scoring function for RidgeClassifierCV,Model Creation,Choice of Model
+sklearn agglomerative clustering input data,Model Creation,Choice of Model
+Fast Information Gain computation,Performance,Training
+where to put freeze_support() in a Python script?,Model Creation,Choice of Model
+How can I fix a MemoryError when executing scikit-learns silhouette score?,Performance,Training
+scikit-learn: general question about parallel computing,General Lirbrary ,Library
+Python scikit learn pca.explained_variance_ratio_ cutoff,Model Creation,Choice of Model
+Scikit-learn (Python): what does f_regression() compute?,Accuracy,Training
+How to generate many interaction terms in Pandas?,Prediction,Prediction
+scikit-learn: clustering text documents using DBSCAN,Model Creation,Choice of Model
+How to import csv data file into scikit-learn?,Adapting Data ,Data Preparation
+"Scikit-learn : error in fitting model - Input contains NaN, infinity or a value too large for float64",Type mismatch,Data Preparation
+Random Forest with GridSearchCV - Error on param_grid,Hyperparameter tuning,Hyperparameter tuning
+How to customize sklearn cross validation iterator by indices?,Evaluation Strategy,Evaluation
+python - TypeError: unorderable types: str() > float(),Type mismatch,Data Preparation
+ValueError: Data is not binary and pos_label is not specified,Type mismatch,Data Preparation
+tfidf algorithm for python,Model Creation,Choice of Model
+Scalable or online out-of-core multi-label classifiers,Prediction,Prediction
+Sci-kit and Regression Summary,Properties of model,Evaluation
+Naive Bayes: Imbalanced Test Dataset,Shape mismatch,Data Preparation
+Random Forest hyperparameter tuning scikit-learn using GridSearchCV,Hyperparameter tuning,Hyperparameter tuning
+Enable Python to utilize all cores for fitting scikit-learn models,Performance,Training
+(Python - sklearn) How to pass parameters to the customize ModelTransformer class by gridsearchcv,Choice of Parameters,Training
+Will pandas dataframe object work with sklearn kmeans clustering?,Adapting Data ,Data Preparation
+Issue with scipy install on windows,Installation,Library
+Label encoding across multiple columns in scikit-learn,Data cleaning,Data Preparation
+Extracting the trees (predictor) from random forest classifier,Extracting feature,Data Preparation
+Sklearn: Evaluate performance of each classifier of OneVsRestClassifier inside GridSearchCV,Evaluation Strategy,Evaluation
+Python MemoryError when doing fitting with Scikit-learn,Error/Exception,Training
+How to fix the false positives rate of a linear SVM?,Accuracy,Training
+Sklearn How to Save a Model Created From a Pipeline and GridSearchCV Using Joblib or Pickle?,Storing model,Library
+OLS Regression: Scikit vs. Statsmodels?,Best Model,Choice of Model
+Feature selection using scikit-learn,Feature Selection,Data Preparation
+"PyInstaller: a module is not included into --onefile, but works fine with --onedir",Dependency,Library
+scikit .predict() default threshold,Prediction,Prediction
+Understanding min_df and max_df in scikit CountVectorizer,Choice of Parameters,Training
+TypeError: sparse matrix length is ambiguous; use getnnz() or shape[0] while using RF classifier?,Type mismatch,Data Preparation
+How to modify scikit-learn's eigenface face recognition example,Override,Library
+"How to overcome joblib's ""TypeError: can't pickle instancemethod objects"" on class method?",Type mismatch,Data Preparation
+How to plot ROC curve with scikit learn for the multiclass case?,Prediction,Prediction
+Creating a threshold-coded ROC plot in Python,Visualization,Evaluation
+In sklearn what is the difference between a SVM model with linear kernel and a SGD classifier with loss=hinge,Best Model,Choice of Model
+Prepare data for text classification using Scikit Learn SVM,Adapting Data ,Data Preparation
+Scikit-learn feature selection for regression data,Feature Selection,Data Preparation
+What is the simplest way to get tfidf with pandas dataframe?,Model Creation,Choice of Model
+ImportError: cannot import name '_safe_split',Dependency,Library
+"Scipy error: numpy.dtype size changed, may indicate binary incompatibility (and associated strange behavior)",Type mismatch,Data Preparation
+How are feature_importances in RandomForestClassifier determined?,Feature Selection,Data Preparation
+"splitting data into test and train, making a logistic regression model in pandas",Split,Data Preparation
+sklearn LinearRegression.Predict() issue,Prediction,Prediction
+"List the words in a vocabulary according to occurrence in a text corpus , Scikit-Learn",Model Creation,Choice of Model
+sklearn: Regression models on sparse data?,Model Creation,Choice of Model
+Using MultilabelBinarizer on test data with labels not in the training set,Model Creation,Choice of Model
+Why is the scikit-learn SVM classifier running so long while using so little CPU?,Performance,Training
+How should I teach machine learning algorithm using data with big disproportion of classes? (SVM),Best Model,Choice of Model
+How to allow sklearn K Nearest Neighbors to take custom distance metric?,Override,Library
+How to explore a decision tree built using scikit learn,Properties of model,Evaluation
+Python scikit-learn: Cannot clone object... as the constructor does not seem to set parameter,Error/Exception,Training
+k-fold stratified cross-validation with imbalanced classes,Evaluation Strategy,Evaluation
+"Python, why is my probabilistic neural network (PNN) always predicting zeros?",Prediction,Prediction
+Clustering using a custom distance metric for lat/long pairs,Override,Library
+Import trained SVM from scikit-learn to OpenCV,Converting model,Library
+Using scikit-learn to training an NLP log linear model for NER,Model Creation,Choice of Model
+Errors encountered in partial_fit in scikit learn,Error/Exception,Training
+sklearn: get feature names after L1-based feature selection,Feature Selection,Data Preparation
+scikit learn: how to check coefficients significance,Feature Selection,Data Preparation
+Clustering Based On Distance Matrix,Model Creation,Choice of Model
+Scikit-Learn Linear Regression how to get coefficient's respective features?,Feature Selection,Data Preparation
+Comparing computer vision libraries in python,General Lirbrary ,Library
+How to know what classes are represented in return array from predict_proba in Scikit-learn,Prediction,Prediction
+CountVectorizer ignoring 'I',Error/Exception,Training
+Store most informative features from NLTK NaiveBayesClassifier in a list,Feature Selection,Data Preparation
+How to get SVMs to play nicely with missing data in scikit-learn?,Data cleaning,Data Preparation
+scikit learn: desired amount of Best Features (k) not selected,Feature Selection,Data Preparation
+Topic modelling - Assign a document with top 2 topics as category label - sklearn Latent Dirichlet Allocation,Model Creation,Choice of Model
+PLS-DA algorithm in python,Model Creation,Choice of Model
+"Use sklearn's GridSearchCV with a pipeline, preprocessing just once",Hyperparameter tuning,Hyperparameter tuning
+Python: UnicodeDecodeError: 'utf8' codec can't decode byte,Type mismatch,Data Preparation
+Getting feature names from within a FeatureUnion + Pipeline,Feature Selection,Data Preparation
+Calculate weighted pairwise distance matrix in Python,Model Creation,Choice of Model
+Sklearn trying to convert string list to floats,Type mismatch,Data Preparation
+Stratified Sampling in Pandas,Feature Selection,Data Preparation
+How to extract info from scikits.learn classifier to then use in C code,Converting model,Library
+Got continuous is not supported error in RandomForestRegressor,Error/Exception,Training
+TfidfVectorizer for corpus that cannot fit in memory,Error/Exception,Training
+"sklearn, LassoCV() and ElasticCV() broken?",Evaluation Strategy,Evaluation
+Converting LinearSVC's decision function to probabilities (Scikit learn python ),Model Creation,Choice of Model
+scikit-learn MinMaxScaler produces slightly different results than a NumPy implemantation,Bug,Library
+How to preprocess data for machine learning?,Adapting Data ,Data Preparation
+Using scikit-learn DecisionTreeClassifier to cluster,Model Creation,Choice of Model
+"In sklearn.decomposition.PCA, why are components_ negative?",Data cleaning,Data Preparation
+How is the TFIDFVectorizer in scikit-learn supposed to work?,Model Creation,Choice of Model
+How to deal with combination of text and numeric features?,Data cleaning,Data Preparation
+How can i know probability of class predicted by predict() function in Support Vector Machine?,Prediction,Prediction
+How to encode a categorical variable in sklearn?,Encoding,Data Preparation
+Possible ways to do one hot encoding in scikit-learn?,Encoding,Data Preparation
+Batch gradient descent with scikit learn (sklearn),Model Creation,Choice of Model
+"sklearn LinearRegression, why only one coefficient returned by the model?",Prediction,Prediction
+Loading SKLearn cancer dataset into Pandas DataFrame,Adapting Data ,Data Preparation
+Getting model attributes from scikit-learn pipeline,Properties of model,Evaluation
+Counting with scipy.sparse,Model Creation,Choice of Model
+Categorical & Numerical Features - Categorical Target - Scikit Learn - Python,Feature Selection,Data Preparation
+Efficient k-means evaluation with silhouette score in sklearn,Evaluation Strategy,Evaluation
+find important features for classification,Feature Selection,Data Preparation
+DBSCAN with python and scikit-learn: What exactly are the integer labes returned by make_blobs?,Model Creation,Choice of Model
+python scikit error - no module named sklearn,Dependency,Library
+Predicting how long an scikit-learn classification will take to run,Performance,Training
+Scikit-learn train_test_split with indices,Split,Data Preparation
+Time series forecasting with scikit learn,Prediction,Prediction
+Scikit-learn cross val score: too many indices for array,Loss function,Training
+tf-idf feature weights using sklearn.feature_extraction.text.TfidfVectorizer,Feature Selection,Data Preparation
+What is the difference between sklearn LabelEncoder and pd.get_dummies?,Best Model,Choice of Model
+How to create/customize your own scorer function in scikit-learn?,OVerride,Library
+How to scale input DBSCAN in scikit-learn,Model Creation,Choice of Model
+Will scikit-learn utilize GPU?,Platform,Library
+Can you fix the false negative rate in a classifier in scikit learn,Accuracy,Training
+Getting PyCharm to import sklearn,Dependency,Library
+Nonnegative matrix factorization in Sklearn,Model Creation,Choice of Model
+Is it possible to print the decision tree in scikit-learn?,Properties of model,Evaluation
+Scikit-Learn Logistic Regression Memory Error,Error/Exception,Training
+Converting list to numpy array,Adapting Data ,Data Preparation
+How to improve the performance of this tiny distance Python function,Performance,Training
+Predicting missing values with scikit-learn's Imputer module,Data cleaning,Data Preparation
+"Python scikit-learn SVM Classifier ""ValueError: Found array with dim 3. Expected <= 2""",Shape mismatch,Data Preparation
+sklearn doesn't have attribute 'datasets',Dependency,Library
+How to normalize with PCA and scikit-learn,Normalization,Training
+How to convert a pandas DataFrame subset of columns AND rows into a numpy array?,Adapting Data ,Data Preparation
+Save classifier to disk in scikit-learn,Storing model,Library
+scikit's GridSearch and Python in general are not freeing memory,Hyperparameter tuning,Hyperparameter tuning
+TF-IDF Simple Use - NLTK/Scikit Learn,Model Creation,Choice of Model
+Is it possible to specify your own distance function using scikit-learn K-Means Clustering?,Override,Library
+How many features can scikit-learn handle?,Feature Selection,Data Preparation
+Is it possible to run Python's scikit-learn algorithms over Hadoop?,Platform,Library
+Binary vectors as y_score argument of roc_curve,Accuracy,Training
+Combining Grid search and cross validation in scikit learn,Hyperparameter tuning,Hyperparameter tuning
+sample weights in scikit-learn broken in cross validation,Evaluation Strategy,Evaluation
+How do I do use non-integer string labels with SVM from scikit-learn? Python,Type mismatch,Data Preparation
+Scikit learn - fit_transform on the test set,Model Creation,Choice of Model
+Combining text stemming and removal of punctuation in NLTK and scikit-learn,Model Creation,Choice of Model
+CountVectorizer: AttributeError: 'numpy.ndarray' object has no attribute 'lower',Error/Exception,Training
+What are the parameters for sklearn's score function?,Choice of Parameters,Training
+Scikit - changing the threshold to create multiple confusion matrixes,Choice of Parameters,Training
+pandas dataframe columns scaling with sklearn,Adapting Data ,Data Preparation
+Multivariate/Multiple Linear Regression in Scikit Learn?,Model Creation,Choice of Model
+Python : How to find Accuracy Result in SVM Text Classifier Algorithm for Multilabel Class,Accuracy,Training
+How to tune parameters of nested Pipelines by GridSearchCV in scikit-learn?,Hyperparameter tuning,Hyperparameter tuning
+Use of scikit Random Forest sample_weights,Model Creation,Choice of Model
+MiniBatchKMeans Parameters,Choice of Parameters,Training
+"Numpy View Reshape Without Copy (2d Moving/Sliding Window, Strides, Masked Memory Structures)",Shape mismatch,Data Preparation
+When using multiple classifiers - How to measure the ensemble's performance? [SciKit Learn],Model Creation,Choice of Model
+Best way to combine probabilistic classifiers in scikit-learn,Model Creation,Choice of Model
+Using cosine distance with scikit learn KNeighborsClassifier,Loss function,Training
+Updating the feature names into scikit TFIdfVectorizer,Feature Selection,Data Preparation
+sklearn matrix factorization example,Model Creation,Choice of Model
+How do I output the regression prediction from each tree in a Random Forest in Python scikit-learn?,Properties of model,Evaluation
+Multiprocessing scikit-learn,Model Creation,Choice of Model
+"What does y, _ assignment do in python / sklearn?",General Lirbrary ,Library
+Scaling data in scikit-learn SVM,Adapting Data ,Data Preparation
+Why does CalibratedClassifierCV underperform a direct classifer?,Accuracy,Training
+How to perform under sampling in scikit learn?,Adapting Data ,Data Preparation
+Token pattern for n-gram in TfidfVectorizer in python,Model Creation,Choice of Model
+Efficiently count word frequencies in python,Model Creation,Choice of Model
+Scikit-Learn One-hot-encode before or after train/test split,Encoding,Data Preparation
+Fast non-negative matrix factorization on large sparse matrix,Performance,Training
+Concatenate custom features with CountVectorizer,Feature Selection,Data Preparation
+Difference between using train_test_split and cross_val_score in sklearn.cross_validation,Split,Data Preparation
+Efficiently create sparse pivot tables in pandas?,Adapting Data ,Data Preparation
+Scikit F-score metric error,Error/Exception,Training
+RandomForestClassfier.fit(): ValueError: could not convert string to float,Type mismatch,Data Preparation
+Is there any way to train a sklearn model by disk data like HDF5 or such ?,Model Creation,Choice of Model
+how to save a scikit-learn pipline with keras regressor inside to disk?,Storing model,Library
+How to nest LabelKFold?,Model Creation,Choice of Model
+How to add an sklearn wrapper for a new ML algorithm,Override,Library
+"scikit-learn, linearsvc - how to get support vectors from the trained SVM?",Adapting Data ,Data Preparation
+TypeError: cannot perform reduce with flexible type,Type mismatch,Data Preparation
+Why is Random Forest with a single tree much better than a Decision Tree classifier?,Best Model,Choice of Model
+Fastest SVM implementation usable in Python,Model Creation,Choice of Model
+classification: PCA and logistic regression using sklearn,Model Creation,Choice of Model
+How to calculate probability(confidence) of SVM classification for small data set?,Prediction,Prediction
+Scipy/Numpy/scikits - calculating precision/recall scores based on two arrays,Accuracy,Training
+Link error with cblas when installing scikit-learn,Installation,Library
+Custom transformer for sklearn Pipeline that alters both X and y,Override,Library
+sklearn: User defined cross validation for time series data,Override,Library
+LInearSVC vs. SVC(kernel='linear'): Conflicting arguments?,Best Model,Choice of Model
+Simple example using BernoulliNB (naive bayes classifier) scikit-learn in python - cannot explain classification,Model Creation,Choice of Model
+Combining feature extraction classes in scikit-learn,Extracting feature,Data Preparation
+Running Jupyter notebook in a virtualenv: installed sklearn module not available,Platform,Library
+Regression trees or Random Forest regressor with categorical inputs,Data cleaning,Data Preparation
+sklearn logistic regression with unbalanced classes,Data cleaning,Data Preparation
+How to write a custom estimator in sklearn and use cross-validation on it?,Override,Library
+10*10 fold cross validation in scikit-learn?,Evaluation Strategy,Evaluation
+What is the difference between pipeline and make_pipeline in scikit?,General Lirbrary ,Library
+How to use the a k-fold cross validation in scikit with naive bayes classifier and NLTK,Evaluation Strategy,Evaluation
+"Attribute's predictive capacity for a particular target in Python, using feature selection in Sklearn",Prediction,Prediction
+What are the pitfalls of using Dill to serialise scikit-learn/statsmodels models?,Model Creation,Choice of Model
+How to use scikit's preprocessing/normalization along with cross validation?,Evaluation Strategy,Evaluation
+"scikit-learn cross validation, negative values with mean squared error",Evaluation Strategy,Evaluation
+A column-vector y was passed when a 1d array was expected,Shape mismatch,Data Preparation
+Setting feature weights for KNN,Feature Selection,Data Preparation
+Scikit Learn Multilabel Classification: ValueError: You appear to be using a legacy multi-label data representation,Data cleaning,Data Preparation
+scikits learn and nltk: Naive Bayes classifier performance highly different,Prediction,Prediction
+Different versions of sklearn give quite different training results,Performance,Training
+How to explain the outcome of k-means clustering?,Output interpertation,Evaluation
+classifiers in scikit-learn that handle nan/null,Data cleaning,Data Preparation
+Saving scikit-learn classifier causes memory error,Error/Exception,Training
+How can I plot the probability density function for a fitted Gaussian mixture model under scikit-learn?,Visualization,Evaluation
+how to split a dataset into training and validation set keeping ratio between classes?,Split,Data Preparation
+Python - Scikit find variable importance for categorical variables,Feature Selection,Data Preparation
+Degrees in Support Vector Regression - RBF Kernel,Model Creation,Choice of Model
+What is the theorical foundation for scikit-learn dummy classifier?,General Lirbrary ,Library
+Why is scikit-learn's random forest using so much memory?,Performance,Training
+"Get U, Sigma, V* matrix from Truncated SVD in scikit-learn",Choice of Parameters,Training
+Making SVM run faster in python,Performance,Training
+any different between original xgboost and sklearn XGBClassifier,Best Model,Choice of Model
+Obtain eigen values and vectors from sklearn PCA,Model Creation,Choice of Model
+Using GridSearchCV with AdaBoost and DecisionTreeClassifier,Hyperparameter tuning,Hyperparameter tuning
+Scikit-learn SVM digit recognition,Prediction,Prediction
+How to debug dying Jupyter Python3 kernel?,Platform,Library
+interpreting Graphviz output for decision tree regression,Visualization,Evaluation
+ImportError: No module named sklearn (Python),Dependency,Library
+What's the difference between predict_proba and decision_function in scikit-learn?,Prediction,Prediction
+Cosine similarity TSNE in sklearn.manifold,Loss function,Training
+How can I work with my own dataset in scikit-learn (for computer vision)?,Adapting Data ,Data Preparation
+How to duplicate an estimator in order to use it on multiple data sets?,Model Creation,Choice of Model
+show feature names after feature selection,Feature Selection,Data Preparation
+Trouble understanding output from scikit random forest,Output interpertation,Evaluation
+Why are LASSO in sklearn (python) and matlab statistical package different?,General Lirbrary ,Library
+Getting negative alpha value in SVM using scikit package in python,Data cleaning,Data Preparation
+"Getting deprecation warning in Sklearn over 1d array, despite not having a 1D array",Deprecated,Library
+HOW TO LABEL the FEATURE IMPORTANCE with forests of trees?,Feature Selection,Data Preparation
+Saving parts of a sklearn pipeline,Storing model,Library
+how to implement walk forward testing in sklearn?,Model Creation,Choice of Model
+Why does scikit-learn cause core dumped?,Performance,Training
+Why does not GridSearchCV give best score ? - Scikit Learn,Hyperparameter tuning,Hyperparameter tuning
+Accuracy Score : ValueError: Can't Handle mix of binary and continuous,Type mismatch,Data Preparation
+Training logistic regression using scikit learn for multi-class classification,Model Creation,Choice of Model
+Distances between rankings,Prediction,Prediction
+How to use sklearn's CountVectorizerand() to get ngrams that include any punctuation as separate tokens?,Model Creation,Choice of Model
+How to convert a scikit model in a fast `.so`,Performance,Training
+Error with Sklearn Random Forest Regressor,Error/Exception,Training
+cluster points after KMeans clustering (scikit learn),Model Creation,Choice of Model
+Problems with a binary one-hot (one-of-K) coding in python,Encoding,Data Preparation
+using confusion matrix as scoring metric in cross validation in scikit learn,Evaluation Strategy,Evaluation
+Syntactic similarity/distance between 2 sentences/string/text using nltk,Model Creation,Choice of Model
+sklearn auc ValueError: Only one class present in y_true,Type mismatch,Data Preparation
+How to use `Dirichlet Process Gaussian Mixture Model` in Scikit-learn? (n_components?),Model Creation,choice of Model
+Adding New Text to Sklearn TFIDIF Vectorizer (Python),Adapting Data ,Data Preparation
+Difference between standardscaler and Normalizer in sklearn.preprocessing,Normalization,Training
+How to add another feature (length of text) to current bag of words classification? Scikit-learn,Feature Selection,Data Preparation
+Run an OLS regression with Pandas Data Frame,Model Creation,Choice of Model
+Create Bayesian Network and learn parameters with Python3.x,Model Creation,Choice of Model
+GridSearch for an estimator inside a OneVsRestClassifier,Hyperparameter tuning,Hyperparameter tuning
+dtype mismatch in sklearn on k-means,Type mismatch,Data Preparation
+Fine-tuning parameters in Logistic Regression,Hyperparameter tuning,Hyperparameter tuning
+How to generate one hot encoding for DNA sequences?,Encoding,Data Preparation
+Gaussian-Process (scikit-learn) Prediction Confidence Interval Oddities,Prediction,Prediction
+Scikit and Pandas: Fitting Large Data,Adapting Data ,Data Preparation
+Python List of Ngrams with frequencies,Model Creation,Choice of Model
+scikit-learn - ROC curve with confidence intervals,Prediction,Prediction
+Visualise word2vec generated from gensim,Visualization,Evaluation
+Use a metric after a classifier in a Pipeline,Choice of Parameters,Training
+Sklearn TFIDF vectorizer to run as parallel jobs,Model Creation,Choice of Model
+Using Scikit's LabelEncoder correctly across multiple programs,Encoding,Data Preparation
+Vectorizing a Pandas dataframe for Scikit-Learn,Model Creation,Choice of Model
+"CountVectorizer: ""I"" not showing up in vectorized text",Error/Exception,Training
+Randomized stratified k-fold cross-validation in scikit-learn?,Evaluation Strategy,Evaluation
+Input format for classification algorithms in scikit-learn,Adapting Data ,Data Preparation
+SGDClassifier with class_weight=auto fails on scikit-learn 0.15 but not 0.14,Dependency,Library
+"Using sparse matrices/online learning in Naive Bayes (Python, scikit)",Model Creation,Choice of Model
+Cannot get MNIST database through Anaconda/jupyter,Dependency,Library
+Scikit learn Error Message 'Precision and F-score are ill-defined and being set to 0.0 in labels',Error/Exception,Training
+Tensorflow Precision / Recall / F1 score and Confusion matrix,Accuracy,Training
+Why does the fit and the partial_fit of the sklearn LatentDirichletAllocation return different results ?,Prediction,Prediction
+What are the different use cases of joblib versus pickle?,General Lirbrary ,Library
+How to split data on balanced training set and test set on sklearn,Split,Data Preparation
+"SciPy NumPy and SciKit-learn , create a sparse matrix",Model Creation,Choice of Model
+sklearn GridSearchCV with Pipeline,Hyperparameter tuning,Hyperparameter tuning
+DeprecationWarning with xgboost,Deprecated,Library
+SKLearn - Principal Component Analysis leads to horrible results in knn predictions,Prediction,Prediction
+How can I store and print the top 20% feature names and scores?,Feature Selection,Data Preparation
+TFIDF for Large Dataset,Model Creation,Choice of Model
+How to get best_estimator parameters from GridSearch using cross_val_score?,Hyperparameter tuning,Hyperparameter tuning
+Large data serialization on scikit-learn with Python 3,Adapting Data ,Data Preparation
+UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples,Accuracy,Training
+What to do first: Feature Selection or Model Parameters Setting?,Model Creation,Choice of Model
+How to specify a distance function for clustering?,Loss function,Training
+How does sklearn.svm.svc's function predict_proba() work internally?,Prediction,Prediction
+Variance inflation factor in ridge regression in python,Model Creation,Choice of Model
+How do you initialize a gensim corpus variable with a csr_matrix?,Model Creation,Choice of Model
+How to Extend Scipy Sparse Matrix returned by sklearn TfIdfVectorizer to hold more features,Model Creation,Choice of Model
+Using sklearn and Python for a large application classification/scraping exercise,Model Creation,Choice of Model
+Stratified Train/Test-split in scikit-learn,Split,Data Preparation
+Choosing and implementing clustering method: DBSCAN something else?,Model Creation,Choice of Model
+scikitlearn - how to model a single features composed of multiple independant values,Model Creation,Choice of Model
+sknn - input dimension mismatch on second fit,Shape mismatch,Data Preparation
+sklearn issue: Found arrays with inconsistent numbers of samples when doing regression,Shape mismatch,Data Preparation
+Recursive feature elimination and grid search using scikit-learn,Feature Selection,Data Preparation
+Why GridSearchCV in scikit-learn spawn so many threads,Hyperparameter tuning,Hyperparameter tuning
+"Want to know the diff among pd.factorize, pd.get_dummies, sklearn.preprocessing.LableEncoder and OneHotEncoder",Encoding,Data Preparation
+Should a pandas dataframe column be converted in some way before passing it to a scikit learn regressor?,Adapting Data ,Data Preparation
+How to normalize an array in NumPy?,Normalization,Training
+Cascade Classifiers for Multiclass Problems in scikit-learn,Model Creation,Choice of Model
+Which algorithms to use for one class classification?,Model Creation,Choice of Model
+How does kmeans know how to cluster documents when we only feed it tfidf vectors of individual words?,Model Creation,Choice of Model
+Can I make partial plots for DecisionTreeClassifier in scikit-learn (and R),Visualization,Evaluation
+Why GridSearchCV spends more than 50% time on {method 'acquire' of 'thread.lock' objects}?,Hyperparameter tuning,Hyperparameter tuning
+Use one attribute only once in scikit-learn decision tree in python,Choice of Parameters,Training
+How to find the importance of the features for a logistic regression model?,Feature Selection,Data Preparation
+Python RandomForest - Unknown label Error,Error/Exception,Training
+A progress bar for scikit-learn?,Output interpertation,Evaluation
+Canonical Correlation Analysis in Python with sklearn,Model Creation,Choice of Model
+Quadratic transformation of a variable,Encoding,Data Preparation
+is it possible Apply PCA on any Text Classification?,Best Model,Choice of Model
+How to use a custom SVM kernel?,Model Creation,Choice of Model
+LDA ignoring n_components?,Error/Exception,Training
+Impute categorical missing values in scikit-learn,Data cleaning,Data Preparation
+sklearn LogisticRegression without regularization,Model Creation,Choice of Model
+How to weight classes in a RandomForest implementation,Feature Selection,Data Preparation
+Scikit Decistion Tree Visualization: meaning of error value,Visualization,Evaluation
+Using categorical data as features in sklean LogisticRegression,Feature Selection,Data Preparation
+"Can sklearn Random Forest classifier adjust sample size by tree, to handle class imbalance?",Data cleaning,Data Preparation
+Linear Regression and Gradient Descent in Scikit learn/Pandas?,Model Creation,Choice of Model
+plot a document tfidf 2D graph,Visualization,Evaluation
+"How to tune parameters in Random Forest, using Scikit Learn?",Hyperparameter tuning,Hyperparameter tuning
+scikit-learn: using sample_weight in grid_search,Hyperparameter tuning,Hyperparameter tuning
+Scikit-learn: How to run KMeans on a one-dimensional array?,Model Creation,Choice of Model
+Explain onehotencoder using python,Encoding,Data Preparation
+Sklearn SGDClassifier partial fit,Model Creation,Choice of Model
+import sklearn not working in PyCharm,Dependency,Library
+"Python scikit learn MLPClassifier ""hidden_layer_sizes""",Model Creation,Choice of Model
+Keep same dummy variable in training and testing data,Evaluation Strategy,Evaluation
+Cannot import scikits-learn even though it seems to be installed,Dependency,Library
+How does scikitlearn implement line search?,Hyperparameter tuning,Hyperparameter tuning
+"Parameter ""stratify"" from method ""train_test_split"" (scikit Learn)",Split,Data Preparation
+python sklearn: what is the difference between accuracy_score and learning_curve score?,Accuracy,Training
+DBSCAN in scikit-learn of Python: save the cluster points in an array,Storing model,Library
+"Sklearn SVM: SVR and SVC, getting the same prediction for every input",Prediction,Prediction
+Fitting partial Gaussian,Model Creation,Choice of Model
+Python/Scikit-learn/regressions - from pandas Dataframes to Scikit prediction,Prediction,Prediction
+"How do I find which attributes my tree splits on, when using scikit-learn?",Feature Selection,Data Preparation
+Why use log-probability estimates in GaussianNB [scikit-learn]?,Loss function,Training
+Ordered Logit in Python?,Model Creation,Choice of Model
+Grid search for hyperparameter evaluation of clustering in scikit-learn,Hyperparameter tuning,Hyperparameter tuning
+scikits confusion matrix with cross validation,Evaluation Strategy,Evaluation
+scikit-learn roc_auc_score() returns accuracy values,Accuracy,Training
+Linear Regression with positive coefficients in Python,Model Creation,Choice of Model
+Fitting data vs. transforming data in scikit-learn,Adapting Data ,Data Preparation
+Using explict (predefined) validation set for grid search with sklearn,Evaluation Strategy,Evaluation
+Speed of K-Nearest-Neighbour build/search with SciKit-learn and SciPy,Performance,Training
+ImportError: cannot import name inplace_column_scale,Dependency,Library
+Scikit-learn : roc_auc_score,Accuracy,Training
+Dimension reduction with t-SNE,Feature Selection,Data Preparation
+Spectral Clustering a graph in python,Model Creation,Choice of Model
+Scikit-learn tutorial documentation location,General Lirbrary ,Library
+Python PCA on Matrix too large to fit into memory,Error/Exception,Training
+How to use the output from OneHotEncoder in sklearn?,Encoding,Data Preparation
+How to predict time series in scikit-learn?,Prediction,Prediction
+Controlling the threshold in Logistic Regression in Scikit Learn,Choice of Parameters,Training
+Factor Loadings using sklearn,Model Creation,Choice of Model
+Random Forests - Probability Estimates (+scikit-learn specific),Prediction,Prediction
+Scikits Learn : how to obtain features weight,Feature Selection,Data Preparation
+GridSearch for Multilabel OneVsRestClassifier?,Hyperparameter tuning,Hyperparameter tuning
+Python Scikit Random Forest Regressor Error,Error/Exception,Training
+How to use custom classifiers in ensemble classifiers in sklearn?,Override,Library
+AdaBoostClassifier with different base learners,Model Creation,Choice of Model
+Why is the logloss negative?,Loss function,Training
+How to find the features names of the coefficients using scikit linear regression?,Feature Selection,Data Preparation
+UserWarning: Label not :NUMBER: is present in all training examples,Error/Exception,Training
+How to get most informative features for scikit-learn classifier for different class?,Feature Selection,Data Preparation
+How to convert a binary classes column to numpy array,Adapting Data ,Data Preparation
+Issue with OneHotEncoder for categorical features,Encoding,Data Preparation
+What is the difference between cross_val_score with scoring='roc_auc' and roc_auc_score?,Accuracy,Training
+Convert NumPy arrays to Pandas Dataframe with columns,Adapting Data ,Data Preparation
+Unconclusive RandomForest documentation in ScikitLearn,General Lirbrary ,Library
+What's the difference between KFold and ShuffleSplit CV?,Evaluation Strategy,Evaluation
+How to obtain information gain from a scikit-learn DecisionTreeClassifier?,Accuracy,Training
+scikit-learn GMM produce positive log probability,Prediction,Prediction
+Upgrade version of scikit-learn included in Enthought Canopy distribution,Installation,Library
+sklearn plot confusion matrix with labels,Visualization,Evaluation
+scikit-learn: One hot encoding of string categorical features,Encoding,Data Preparation
+How to find the corresponding class in clf.predict_proba(),Prediction,Prediction
+How is Elastic Net used?,Choice of Regularization,Training
+"Multidimensional Scaling Fitting in Numpy, Pandas and Sklearn (ValueError)",Type mismatch,Data Preparation
+Export python scikit learn models into pmml,Storing model,Library
+AttributeError: module 'tensorflow.contrib.learn' has no attribute 'TensorFlowDNNClassifier',Dependency,Library
+"can't use scikit-learn - ""AttributeError: 'module' object has no attribute ...""",Error/Exception,Training
+How to get most informative features for scikit-learn classifiers?,Feature Selection,Data Preparation
+Does sklearn support a cost matrix?,General Lirbrary ,Library
+ImportError: No module named sklearn.datasets,Dependency,Library
+Difference between R.scale() and sklearn.preprocessing.scale(),Feature Selection,Data Preparation
+Possibility to apply online algorithms on big data files with sklearn?,Model Creation,Choice of Model
+Scikit-Learn: Predicting new points with DBSCAN,Prediction,Prediction
+Using multiple custom classes with Pipeline sklearn (Python),Model Creation,Choice of Model
+GradientBoostingClassifier with a BaseEstimator in scikit-learn?,Model Creation,Choice of Model
+LogisticRegression: Unknown label type: 'continuous' using sklearn in python,Error/Exception,Training
+Tested implementation of APriori and FP-growth in python,Model Creation,Choice of Model
+ImportError in importing from sklearn: cannot import name check_build,Dependency,Library
+What does `sample_weight` do to the way a `DecisionTreeClassifier` works in sklearn?,Model Creation,Choice of Model
+Feature space reduction for tag prediction,Prediction,Prediction
+sklearn: How to speed up a vectorizer (eg Tfidfvectorizer),Performance,Training
+How to plot a ROC curve with Tensorflow and scikit-learn?,Visualization,Evaluation
+xgboost and its sklearn's integration feature_importances_ error,Error/Exception,Training
+"ValueError: This solver needs samples of at least 2 classes in the data, but the data contains only one class: 1.0",Shape mismatch,Data Preparation
+Implement K Neighbors Classifier in scikit-learn with 3 feature per object,Model Creation,Choice of Model
+Easy way to use parallel options of scikit-learn functions on HPC,Platform,Library
+Can I use CountVectorizer in scikit-learn to count frequency of documents that were not used to extract the tokens?,Model Creation,Choice of Model
+"Understanding ""score"" returned by scikit-learn KMeans",Accuracy,Training
+scikit-learn SVM.SVC() is extremely slow,Performance,Training
+"""No space left on device"" error while fitting Sklearn model",Error/Exception,Training
+Python - machine learning,,
+sklearn pipeline - how to apply different transformations on different columns,Encoding,Data Preparation
+Scikit-learn - Warm-restarts for Cross Validation,Model Creation,Choice of Model
+How to get inertia value for each k-means cluster using scikit-learn?,Output interpertation,Evaluation
+Combining random forest models in scikit learn,Model Creation,Choice of Model
+How to calculate the 99% confidence interval for the slope in a linear regression model in python?,Model Creation,Choice of Model
+Ensemble of different kinds of regressors using scikit-learn (or any other python framework),Model Creation,Choice of Model
+Deprecation warnings from sklearn,Deprecated,Library
+"sklearn Logistic Regression ""ValueError: Found array with dim 3. Estimator expected <= 2.""",Shape mismatch,Data Preparation
+python feature selection in pipeline: how determine feature names?,Feature Selection,Data Preparation
+Dimension of data before and after performing PCA,Shape mismatch,Data Preparation
+Python Sklearn - RandomForest and Missing values,Data cleaning,Data Preparation
+How to do gaussian/polynomial regression with scikit-learn?,Model Creation,Choice of Model
+How do I solve overfitting in random forest of Python sklearn?,Prediction,Prediction
+Why sklearn RandomForest model take a lot of disk space after save?,Storing model,Library
+What is python's equivalent of R's NA?,,
+Insert or delete a step in scikit-learn Pipeline,Model Creation,Choice of Model
+"Regression with Lasso, all coeffs are 0",Accuracy,Training
+scikit-learn undersampling of unbalanced data for crossvalidation,Data cleaning,Data Preparation
+Scikit-learn confusion matrix,Evaluation Strategy,Evaluation
+Cross Validation and Grid Search,Evaluation Strategy,Evaluation
+Why Scikit GradientBoostingClassifier won't let me use least squares regression?,Loss function,Training
+Using counts and tfidf as features with scikit learn,Feature Selection,Data Preparation
+StratifiedKFold : IndexError: too many indices for array,Shape mismatch,Data Preparation
+Distinguishing overfitting vs good prediction,Prediction,Prediction
+TypeError: only integer arrays with one element can be converted to an index,Type mismatch,Data Preparation
+Use s„ikit-learn TfIdf with gensim LDA,Model Creation,Choice of Model
+Python - What is exactly sklearn.pipeline.Pipeline?,Model Creation,Choice of Model
+Mixing categorial and continuous data in Naive Bayes classifier using scikit-learn,Data cleaning,Data Preparation
+Missing values in scikits machine learning,Data cleaning,Data Preparation
+How to split data (raw text) into test/train sets with scikit crossvalidation module?,Split,Data Preparation
+Using DictVectorizer with sklearn DecisionTreeClassifier,Model Creation,Choice of Model
+Finding the dimension with highest variance using scikit-learn PCA,Evaluation Strategy,Evaluation
+"Custom kernels for SVM, when to apply them?",Override,Library
+How to use Isolation Forest,Model Creation,Choice of Model
+Scikit-learn balanced subsampling,Data cleaning,Data Preparation
+SciPy and scikit-learn - ValueError: Dimension mismatch,Shape mismatch,Data Preparation
+Principal Component Analysis not working,Error/Exception,Training
+Using scikit-learn vectorizers and vocabularies with gensim,Model Creation,Choice of Model
+How can I use sklearn.naive_bayes with (multiple) categorical features?,Model Creation,Choice of Model
+How to increase the model accuracy of logistic regression in Scikit python?,Accuracy,Training
+How to output RandomForest Classifier from python?,Model Creation,Choice of Model
+Linear Regression on Pandas DataFrame using Sci-kit Learn,Model Creation,Choice of Model
+Feature Importance with XGBClassifier,Feature Selection,Data Preparation
+How to interpret scikit's learn confusion matrix and classification report?,Evaluation Strategy,Evaluation
+Plotting a ROC curve in scikit yields only 3 points,Visualization,Evaluation
+GridSearchCV and LogisticRegression raise ValueError: Can't handle mix of continuous and binary,Hyperparameter tuning,Hyperparameter tuning
+What is the difference between partial fit and warm start?,Choice of Parameters,Training
+How to specify the prior probability for scikit-learn's Naive Bayes,Model Creation,Choice of Model
+Recursive feature elimination on Random Forest using scikit-learn,Feature Selection,Data Preparation
+Accessing transformer functions in `sklearn` pipelines,Properties of model,Evaluation
+"""could not convert integer scalar"" error when using DBSCAN",Type mismatch,Data Preparation
+numpy performance differences between Linux and Windows,Performance,Training
+Scikit Learn: Logistic Regression model coefficients: Clarification,Choice of Parameters,Training
+python scikit-learn clustering with missing data,Data cleaning,Data Preparation
+how to pass from numpy matrix to numpy array?,Adapting Data ,Data Preparation
+How to install scikit-learn on heroku cedar?,Installation,Library
+Clustering text documents using scikit-learn kmeans in Python,Model Creation,Choice of Model
+xgboost sklearn wrapper value 0for Parameter num_class should be greater equal to 1,Error/Exception,Training
+Sklearn Pipeline - How to inherit get_params in custom Transformer (not Estimator),Properties of model,Evaluation
+TfidfVectorizer in scikit-learn : ValueError: np.nan is an invalid document,Data cleaning,Data Preparation
+How to speed LabelEncoder up recoding a categorical variable into integers,Encoding,Data Preparation
+How to calculate a partial Area Under the Curve (AUC),Evaluation Strategy,Evaluation
+Handling unknown values for label encoding,Data cleaning,Data Preparation
+Text Clustering and topic extraction,Model Creation,Choice of Model
+"Python 3 ImportError: cannot import name 'model selection' OS X 10.11.3, Anconda",Dependency,Library
+"how to check which version of nltk, scikit learn installed?",Dependency,Library
+Using scikit-learn NMF with a precomputed set of basis vectors (Python),Model Creation,Choice of Model
+Sklearn preprocessing - PolynomialFeatures - How to keep column names/headers of the output array / dataframe,Feature Selection,Data Preparation
+How can I call scikit-learn classifiers from Java?,Platform,Library
+Scikit-learn ìàå_ (chi-squared) statistic and corresponding contingency table,Model Creation,Choice of Model
+Random Forest is overfitting,Prediction,Prediction
+Can we choose what Decision Tree algorithm to use in sklearn?,Best Model,Choice of Model
+use scikit-learn to classify into multiple categories,Model Creation,Choice of Model
+scikit-learn TfidfVectorizer meaning?,,
+Gaussian Process scikit-learn - Exception,Error/Exception,Training
+Sklearn: Is there any way to debug Pipelines?,Output interpertation,Evaluation
+What is the difference between OneVsRestClassifier and MultiOutputClassifier in scikit learn?,Best Model,Choice of Model
+sklearn metrics.log_loss is positive vs. scoring 'neg_log_loss' is negative,Loss function,Training
+Fitting a scikits.learn.hmm.GaussianHMM to variable length training sequences,Model Creation,Choice of Model
+hierarchical classification + topic model training data for internet articles and social media,Model Creation,Choice of Model
+Scikit K-means clustering performance measure,Performance,Training
+What does clf mean in machine learning?,General Lirbrary ,Library
+Using Sci-Kit learn to classify text with a large corpus,Model Creation,Choice of Model
+How can i distribute processing of minibatch kmeans (scikit-learn)?,Model Creation,Choice of Model
+How can I capture return value with Python timeit module?,Output interpertation,Evaluation
+"Comparison of R, statmodels, sklearn for a classification task with logistic regression",Best Model,Choice of Model
+Scikit-learn: Parallelize stochastic gradient descent,Model Creation,Choice of Model
+ValueError: setting an array element with a sequence. while using SVM in scikit-learn,Shape mismatch,Data Preparation
+Error in mlxtend voting regressor while using random forest for feature selection,Error/Exception,Training
+Visualizing decision tree in scikit-learn,Visualization,Evaluation
+label-encoder encoding missing values,Encoding,Data Preparation
+unable to use FeatureUnion in scikit-learn due to different dimensions,Feature Selection,Data Preparation
+Impute entire DataFrame (all columns) using Scikit-learn (sklearn) without iterating over columns,Adapting Data ,Data Preparation
+Visualizing scikit-learn/ sklearn multi-output decision tree regression in png or pdf,Visualization,Evaluation
+Scikit-learn grid search with SVM regression,Hyperparameter tuning,Hyperparameter tuning
+understanding scikit learn Random Forest memory requirement for prediction,Performance,Training
+Regression with multi-dimensional targets,Model Creation,Choice of Model
+Why does scikit-learn's Nearest Neighbor doesn't seem to return proper cosine similarity distances?,Accuracy,Training
+How to one-hot-encode from a pandas column containing a list?,Encoding,Data Preparation
+using randomized_svd for recommendation,Model Creation,Choice of Model
+"sklearn.cross_validation.StratifiedShuffleSplit - error: ""indices are out-of-bounds""",Split,Data Preparation
+TypeError: get_params() missing 1 required positional argument: 'self',Type mismatch,Data Preparation
+scikit-learn: Random forest class_weight and sample_weight parameters,Choice of Parameters,Training
+Python Non negative Matrix Factorization that handles both zeros and missing data?,Data cleaning,Data Preparation
+Right function for normalizing input of sklearn SVM,Adapting Data ,Data Preparation
+Difference between Linear Regression Coefficients between Python and R,Best Model,Choice of Model
+DecisionTreeClassifier vs ExtraTreeClassifier,Best Model,Choice of Model
+How to interpret LDA components (using sklearn)?,Model Creation,Choice of Model
+silhouette coefficient in python with sklearn,Model Creation,Choice of Model
+Periodic Data with Machine Learning (Like Degree Angles -> 179 is 2 different from -179),Adapting Data ,Data Preparation
+scikit-learn TruncatedSVD's explained variance ratio not in descending order,Model Creation,Choice of Model
+How to apply standardization to SVMs in scikit-learn?,Normalization,Training
+How to use sklearn fit_transform with pandas and return dataframe instead of numpy array?,Model Creation,Choice of Model
+scikit-learn - Convert pipeline prediction to original value/scale,Prediction,Prediction
+Using partial_fit with Scikit Pipeline,Model Creation,Choice of Model
+Visualizing a decision tree ( example from scikit-learn ),Visualization,Evaluation
+scikit-learn install failure / numpy not found / missing numpy headers,Installation,Library
+What is the meaning of the nu parameter in Scikit-Learn's SVM class?,Choice of Parameters,Training
+How to get the text of cluster centers from scikit-learn KMeans?,Output interpertation,Evaluation
+log loss output is greater than 1,Loss function,Training
+Saving Random Forest,Storing model,Library
+Evaluate multiple scores on sklearn cross_val_score,Evaluation Strategy,Evaluation
+How to plot scikit learn classification report?,Visualization,Evaluation
+Finding conditional Gaussian Mixture Model using scikit-learn.mixture.GMM,Model Creation,Choice of Model
+"Using scikit-learn classifier inside nltk, multiclass case",Model Creation,Choice of Model
+Fastest pairwise distance metric in python,Loss function,Training
+Multi-label classification for large dataset,Model Creation,Choice of Model
+How do I create a sklearn.datasets.base.Bunch object in scikit-learn from my own data?,Adapting Data ,Data Preparation
+"MultinomialNB error: ""Unknown Label Type""",Error/Exception,Training
+ImportError: No module named model_selection,Dependency,Library
+Is it possible to tune parameters with grid search for custom kernels in scikit-learn?,Hyperparameter tuning,Hyperparameter tuning
+Alternative for r's Exponential smoothing state space model in python/scikit/numpy,Best Model,Choice of Model
+Pickle Tfidfvectorizer along with a custom tokenizer,Model Creation,Choice of Model
+.arff files with scikit-learn?,Adapting Data ,Data Preparation
+OneHotEncoder with string categorical values,Encoding,Data Preparation
+"Compute a Pairwise Distance Matrix: is a scalable, big-data-ready approach available in Python?",Model Creation,Choice of Model
+Using scikit to determine contributions of each feature to a specific class prediction,Feature Selection,Data Preparation
+How can I use a custom feature selection function in scikit-learn's `pipeline`,Feature Selection,Data Preparation
+Python scikit-learn: exporting trained classifier,Storing model,Library
+BaseEstimator in sklearn.base (Python),Model Creation,Choice of Model
+Random search vs. GridSearchCV,Hyperparameter tuning,Hyperparameter tuning
+[scikit learn]: Anomaly Detection - Alternative for OneClassSVM,Model Creation,Choice of Model
+Ranking and scores in Recursive Feature Elimination (RFE) in scikit-learn,Feature Selection,Data Preparation
+plotting decision boundary of logistic regression,Visualization,Evaluation
+add stemming support to CountVectorizer (sklearn),Model Creation,Choice of Model
+sklearn pipeline - Applying sample weights after applying a polynomial feature transformation in a pipeline,Choice of Parameters,Training
+How to avoid one Spark Streaming window blocking another window with both running some native Python code,Performance,Training
+Is it possible to toggle a certain step in sklearn pipeline?,Evaluation Strategy,Evaluation
+Build an approximately uniform grid from random sample (python),Adapting Data ,Data Preparation
+What's wrong with my implementation of Neural Networks?,Model Creation,Choice of Model
+scikit-learn roc_curve: why does it return a threshold value = 2 some time?,Properties of model,Evaluation
+sklearn and large datasets,Best Model,Choice of Model
+"What is the difference between Hashing vectorizer and Count vectorizer, when each to be used?",Best Model,Choice of Model
+Understanding max_features parameter in RandomForestRegressor,Choice of Parameters,Training
+Error importing scikit-learn modules,Dependency,Library
+How to list all scikit-learn classifiers that support predict_proba(),Prediction,Prediction
+Clustering cosine similarity matrix,Model Creation,Choice of Model
+Affinity Propagation (sklearn) - strange behavior,Model Creation,Choice of Model
+Tensorboard logging non-tensor (numpy) information (AUC),Messages,Library
+Plotting Precision-Recall curve when using cross-validation in scikit-learn,Visualization,Evaluation
+adding words to stop_words list in TfidfVectorizer in sklearn,Adapting Data ,Data Preparation
+What is a good heuristic to detect if a column in a pandas.DataFrame is categorical?,Data cleaning,Data Preparation
+Making Probability Distribution Functions (PDFs) from histograms,Visualization,Evaluation
+Is Apache Spark less accurate than Scikit Learn?,Accuracy,Training
+import check_arrays from sklearn,Dependency,Library
+Save python random forest model to file,Storing model,Library
+(how) can you train a model twice (multiple times) in sklearn using fit.?,Model Creation,Choice of Model
+Classifying text documents with random forests,Model Creation,Choice of Model
+Appropriate Deep Learning Structure for multi-class classification,Model Creation,Choice of Model
+How to retain column headers of data frame after Pre-processing in scikit-learn,Data cleaning,Data Preparation
+Weird ValueError in KNeighborsClassifier score,Error/Exception,Training
+scikit-learn kernel PCA explained variance,Model Creation,Choice of Model
+scikit-learn: Finding the features that contribute to each KMeans cluster,Feature Selection,Data Preparation
+transform scipy sparse csr to pandas?,Adapting Data ,Data Preparation
+PCA memory error in Sklearn: Alternative Dim Reduction?,Error/Exception,Training
+Accuracy score in pyTorch LSTM,Accuracy,Training
+How to plot SVC classification for an unbalanced dataset with scikit-learn and matplotlib?,Visualization,Evaluation
+How do I get the components for LDA in scikit-learn?,Choice of Parameters,Training
+sklearn: how to get coefficients of polynomial features,Feature Selection,Data Preparation
+"sklearn error ValueError: Input contains NaN, infinity or a value too large for dtype('float64')",Data cleaning,Data Preparation
+Plotting decision boundary for High Dimension Data,Visualization,Evaluation
+Manual split versus Scikit Grid Search,Split,Data Preparation
+How does the class_weight parameter in scikit-learn work?,Choice of Parameters,Training
+Exporting a Scikit Learn Random Forest for use on Hadoop Platform,Storing model,Library
+Inversing PCA transform with sklearn (with whiten=True),Model Creation,Choice of Model
+sklearn - Cross validation with multiple scores,Evaluation Strategy,Evaluation
+Some doubts modelling some features for the libsvm/scikit-learn library in python,Feature Selection,Data Preparation
+Python scikit learn multi-class multi-label performance metrics?,Choice of Parameters,Training
+How to binarize the values in a pandas DataFrame?,Adapting Data ,Data Preparation
+"Python: String clustering with scikit-learn's dbscan, using Levenshtein distance as metric:",Model Creation,Choice of Model
+Scikit-learn principal component analysis (PCA) for dimension reduction,Model Creation,Choice of Model
+Why is my VotingClassifier accuracy less than my individual classifier?,Accuracy,Training
+Normalise between 0 and 1 ignoring NaN,Normalization,Training
+text classification of large dataset in python,Model Creation,Choice of Model
+what's the use of transformer_weights in scikit-learn pipeline?,Choice of Parameters,Training
+Rotation argument for scikit-learn's factor analysis,Choice of Parameters,Training
+"Scikit-learn: How to obtain True Positive, True Negative, False Positive and False Negative",Evaluation Strategy,Evaluation
+Incremental PCA on big data,Feature Selection,Data Preparation
+How to convert a Scikit-learn dataset to a Pandas dataset?,Adapting Data ,Data Preparation
+Training different scikit-learn classifiers on multiple CPUs for each iteration,Performance,Training
+sklearn logistic regression - important features,Feature Selection,Data Preparation
+How to use scikit-learn PCA for features reduction and know which features are discarded,Feature Selection,Data Preparation
+Should I use `random.seed` or `numpy.random.seed` to control random number generation in `scikit-learn`?,General Lirbrary ,Library
+Different result with roc_auc_score() and auc(),Accuracy,Training
+scikit KernelPCA unstable results,Prediction,Prediction
+Python shared read memory,General Lirbrary ,Library
+LabelEncoder specify classes in DataFrame,Encoding,Data Preparation
+Calculate sklearn.roc_auc_score for multi-class,Error/Exception,Training
+clf.tree_.feature - what is the output? (scikit-learn),Feature Selection,Data Preparation
+Exhaustively feature selection in scikit-learn?,Feature Selection,Data Preparation
+scikit grid search over multiple classifiers python,Hyperparameter tuning,Hyperparameter tuning
+what is the difference between 'transform' and 'fit_transform' in sklearn,Model Creation,Choice of Model
+Combining bag of words and other features in one model using sklearn and pandas,Adapting Data ,Data Preparation
+Understanding the `ngram_range` argument in a CountVectorizer in sklearn,Choice of Parameters,Training
+How to get Best Estimator on GridSearchCV (Random Forest Classifier Scikit),Hyperparameter tuning,Hyperparameter tuning
+How to quickly calculate cosine similarity for large number of vectors in Python?,Model Creation,Choice of Model
+scikit-learn: how to scale back the 'y' predicted result,Encoding,Data Preparation
+What is the inverse of regularization strength in Logistic Regression? How should it affect my code?,Model Creation,Choice of Model
+Is there easy way to grid search without cross validation in python?,Hyperparameter tuning,Hyperparameter tuning
+ValueError: negative dimensions are not allowed,Shape mismatch,Data Preparation
+Scikit: calculate precision and recall using cross_val_score function,Accuracy,Training
+Train multiple models in parallel with sklearn?,Performance,Training
+How do I get word frequency in a corpus using Scikit Learn CountVectorizer?,Model Creation,Choice of Model
+Supervised Dimensionality Reduction for Text Data in scikit-learn,Feature Selection,Data Preparation
+Plotting the boundaries of cluster zone in Python with scikit package,Visualization,Evaluation
+Memory efficient way to split large numpy array into train and test,Performance,Training
+NumPy or Dictionary?,General Lirbrary ,Library
+Blaze with Scikit Learn K-Means,Model Creation,Choice of Model
+The easiest way for getting feature names after running SelectKBest in Scikit Learn,Feature Selection,Data Preparation
+"Numpy hstack - ""ValueError: all the input arrays must have same number of dimensions"" - but they do",Shape mismatch,Data Preparation
+"scikit-learn, add features to a vectorized set of documents",Feature Selection,Data Preparation
+How do I convert new data into the PCA components of my training data?,Adapting Data ,Data Preparation
+scikit TfidfVectorizer.transform() returns varying results for same document,Prediction,Prediction
+Keras and Sklearn logreg returning different results,Prediction,Prediction
+Web application that uses scikit-learn,General Lirbrary ,Library
+sklearn.LabelEncoder with never seen before values,Encoding,Data Preparation
+Calibration with xgboost,Model Creation,Choice of Model
+How do I use sklearn CountVectorizer with both 'word' and 'char' analyzer? - python,Model Creation,Choice of Model
+Problems of installing scikit-learn in Python,Installation,Library
+Does the SVM in sklearn support incremental (online) learning?,Model Creation,Choice of Model
+How to gridsearch over transform arguments within a pipeline in scikit-learn,Hyperparameter tuning,Hyperparameter tuning
+Missing value imputation in python using KNN,Data cleaning,Data Preparation
+Problems obtaining most informative features with scikit learn?,Feature Selection,Data Preparation
+Machine Learning (tensorflow / sklearn) in Django?,General Lirbrary ,Library
+Confused about X in GaussianHMM.fit([X]),Model Creation,Choice of Model
+How is scikit-learn GridSearchCV best_score_ calculated?,Hyperparameter tuning,Hyperparameter tuning
+Text[Multi-Level] Classification with many outputs,Model Creation,Choice of Model
+"Sklearn, gridsearch: how to print out progress during the execution?",Hyperparameter tuning,Hyperparameter tuning
+Scikit-learn cross validation scoring for regression,Evaluation Strategy,Evaluation
+XGBoost XGBClassifier Defaults in Python,Choice of Parameters,Training
+Use Latent Semantic Analysis with sklearn,Model Creation,Choice of Model
+Multiprocessing backed parallel loops cannot be nested below threads,Performance,Training
+Scipy installation issues from source?,Installation,Library
+How do i visualize data points of tf-idf vectors for kmeans clustering?,Visualization,Evaluation
+Simple prediction using linear regression with python,Prediction,Prediction
+what is the definition of the parameter 'verbose' in scikit learn kmeans clustering,Choice of Parameters,Training
+"Scikit-Learn's Pipeline: A sparse matrix was passed, but dense data is required",Error/Exception,Training
+Grid Search with Recursive Feature Elimination in scikit-learn pipeline returns an error,Hyperparameter tuning,Hyperparameter tuning
+Auto-sklearn installation error,Installation,Library
+Nearest Neighbors in Python given the distance matrix,Evaluation Strategy,Evaluation
+DeprecationWarning in sklearn MiniBatchKMeans,Deprecated,Library
+fit_transform() takes 2 positional arguments but 3 were given with LabelBinarizer,Error/Exception,Training
+Size of sample in Random Forest Regression,Adapting Data ,Data Preparation
+How to output sklearn standardscaler,Output interpertation,Evaluation
+How does LassoCV in scikit-learn partition data?,Evaluation Strategy,Evaluation
+How is the R2 value in Scikit learn calculated?,Accuracy,Training
+Scikit-learn - feature reduction using RFECV and GridSearch. Where are the coefficients stored?,Feature Selection,Data Preparation
+How to get a classifier's confidence score for a prediction in sklearn?,Accuracy,Training
+Get a classification report stating the class wise precision and recall for multinomial Naive Bayes using 10 fold cross validation,Evaluation Strategy,Evaluation
+scipy sparse matrix: remove the rows whose all elements are zero,Data cleaning,Data Preparation
+Difference between scikit-learn and sklearn,General Lirbrary ,Library
+How to draw a precision-recall curve with interpolation in python?,Evaluation Strategy,Evaluation
+Confusion matrix for Clustering in scikit-learn,Evaluation Strategy,Evaluation
+why does scikitlearn says F1 score is ill-defined with FN bigger than 0?,Error/Exception,Training
+How does sklearn random forest index feature_importances_,Feature Selection,Data Preparation
+Persisting data in sklearn,Adapting Data ,Data Preparation
+mapping scikit-learn DecisionTreeClassifier.tree_.value to predicted class,Prediction,Prediction
+ImportError: cannot import name check_array from sklearn.utils.validation,Dependency,Library
+Making scikit deterministic?,Prediction,Prediction
+predict_proba for a cross-validated model,Prediction,Prediction
+Panda's get_dummies vs. Sklearn's OneHotEncoder() :: What is more efficient?,Encoding,Data Preparation
+How to get feature names selected by feature elimination in sklearn pipeline?,Feature Selection,Data Preparation
+a value too large for dtype('float64'),Type mismatch,Data Preparation
+Scikit-Learn PCA,Model Creation,Choice of Model
+Recovering features names of explained_variance_ratio_ in PCA with sklearn,Feature Selection,Data Preparation
+Scikit-learn is returning coefficient of determination (R^2) values less than -1,Accuracy,Training
+scitkit-learn query data dimension must match training data dimension,Shape mismatch,Data Preparation
+How can I pass a preprocessor to TfidfVectorizer? - sklearn - python,Choice of Parameters,Training
+ImportError: No module named sklearn.cross_validation,Dependency,Library
+"Cross-validate precision, recall and f1 together with sklearn",Evaluation Strategy,Evaluation
+'verbose' argument in scikit-learn,Choice of Parameters,Training
+python: How to use POS (part of speech) features in scikit learn classfiers (SVM) etc,Model Creation,Choice of Model
+sklearn: Found arrays with inconsistent numbers of samples when calling LinearRegression.fit(),Shape mismatch,Data Preparation
+Using the predict_proba() function of RandomForestClassifier in the safe and right way,Prediction,Prediction
+How to use Keras TensorBoard callback for grid search,Hyperparameter tuning,Hyperparameter tuning
+Is it possible to run scikit-learn on Google App Engine?,General Lirbrary ,Library
+Can't seem to import scikit-learn's MLPRegressor,Dependency,Library
+Are there feature selection algorithms that can be applied to categorical data inputs?,Feature Selection,Data Preparation
+Scikit-learn custom score function needs values from dataset other than X and y,Override,Library
+Saving prediction results to CSV,Storing model,Library
+Adding new words to text vectorizer in scikit-learn,Adapting Data ,Data Preparation
+Random state (Pseudo-random number)in Scikit learn,Choice of Parameters,Training
+Is a countvectorizer the same as tfidfvectorizer with use_idf=false?,Best Model,Choice of Model
+How areTF-IDF calculated by the scikit-learn TfidfVectorizer,Model Creation,Choice of Model
+Scikit Learn HMM training with set of observation sequences,Model Creation,Choice of Model
+Vector autoregressive model fitting with scikit-learn,Model Creation,Choice of Model
+sklearn - cross validation with precision scoring for a subset of classes,Evaluation Strategy,Evaluation
+scikit-learn return value of LogisticRegression.predict_proba,Prediction,Prediction
+Resampling in scikit-learn and/or pandas,Adapting Data ,Data Preparation
+AUC-base Features Importance using Random Forest,Feature Selection,Data Preparation
+Scikit-learn: How to calculate the True Negative,Evaluation Strategy,Evaluation
+"How to compute precision, recall, accuracy and f1-score for the multiclass case with scikit learn?",Accuracy,Training
+How can i vectorize list using sklearn DictVectorizer,General Lirbrary ,Library
+"How to split data into 3 sets (train, validation and test)?",Split,Data Preparation
+Scikit Learn - Extract word tokens from a string delimiter using CountVectorizer,Adapting Data ,Data Preparation
+Ignore a column while building a model with SKLearn,Feature Selection,Data Preparation
+is there any way implementing skip gram with scikit-learn?,Model Creation,Choice of Model
+"TypeError: Expected sequence or array-like, got estimator",Type mismatch,Data Preparation
+Dummy creation in pipeline with different levels in train and test set,Split,Data Preparation
+How to get comparable and reproducible results from LogisticRegressionCV and GridSearchCV,Prediction,Prediction
+ValueError: A value in x_new is below the interpolation range,Data cleaning,Data Preparation
+Passing categorical data to Sklearn Decision Tree,Data cleaning,Data Preparation
+How to do discretization of continuous attributes in sklearn?,Encoding,Data Preparation
+scikit-learn: don't separate hyphenated words while tokenization,Error/Exception,Training
+Using sklearn directly in python from within matlab,Platform,Library
+How to collapse a RandomForest into an equivalent decision tree?,Model Creation,Choice of Model
+Method for calculating irregularly spaced accumulation points,Performance,Training
+Why am I not seeing speed up via multiprocessing in Python?,Performance,Training
